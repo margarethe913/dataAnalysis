@@ -1,0 +1,1342 @@
+,Question ID,Participant ID,Description,Answer,Correctness,Question Type,Prompt Condition,Order Difference
+0,Q100,5e52af31a0002e2c6056b13f,Firebase installation ID,,0,2,1,NaN
+1,Q100,5ea043fbbfbe190687467966,Firebase installation ID,,0,2,0,NaN
+2,Q100,5eaf3e142627076426921b1b,Firebase installation ID,App Information and Performance,0,2,2,-1
+3,Q100,5fe635082fcdc9404d6fc610,Firebase installation ID,App Information and Performance,0,2,1,-1
+4,Q100,602d86345f6c24812bfc3a4e,Firebase installation ID,,0,2,1,NaN
+5,Q100,603411dbcf15a5036c87fc2b,Firebase installation ID,,0,2,1,NaN
+6,Q100,61123bdc9bdfe87e54a459a6,Firebase installation ID,,0,2,1,NaN
+7,Q100,6124f281ce42cb9bf7ed738f,Firebase installation ID,,0,2,0,NaN
+8,Q100,614dec67f6eb129c3a77defd,Firebase installation ID,,0,2,0,NaN
+9,Q101,5e52af31a0002e2c6056b13f,the app's advertising identifier,App Activity,0,2,1,-1
+10,Q101,5ea043fbbfbe190687467966,the app's advertising identifier,App Activity,0,2,0,-1
+11,Q101,5eaf3e142627076426921b1b,the app's advertising identifier,,0,2,2,NaN
+12,Q101,5fe635082fcdc9404d6fc610,the app's advertising identifier,,0,2,1,NaN
+13,Q101,602d86345f6c24812bfc3a4e,the app's advertising identifier,,0,2,1,NaN
+14,Q101,603411dbcf15a5036c87fc2b,the app's advertising identifier,,0,2,1,NaN
+15,Q101,61123bdc9bdfe87e54a459a6,the app's advertising identifier,,0,2,1,NaN
+16,Q101,6124f281ce42cb9bf7ed738f,the app's advertising identifier,,0,2,0,NaN
+17,Q101,614dec67f6eb129c3a77defd,the app's advertising identifier,,0,2,0,NaN
+18,Q108,5e52af31a0002e2c6056b13f,"Our app accesses GPS location and sends it to our server.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Collection,1,1,1,0
+19,Q108,5ea043fbbfbe190687467966,"Our app accesses GPS location and sends it to our server.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Collection,1,1,0,0
+20,Q108,5eaf3e142627076426921b1b,"Our app accesses GPS location and sends it to our server.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Collection,1,1,2,0
+21,Q108,5fe635082fcdc9404d6fc610,"Our app accesses GPS location and sends it to our server.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Collection,1,1,1,0
+22,Q108,602d86345f6c24812bfc3a4e,"Our app accesses GPS location and sends it to our server.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Collection,1,1,1,0
+23,Q108,603411dbcf15a5036c87fc2b,"Our app accesses GPS location and sends it to our server.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Collection,1,1,1,0
+24,Q108,61123bdc9bdfe87e54a459a6,"Our app accesses GPS location and sends it to our server.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Collection,1,1,1,0
+25,Q108,6124f281ce42cb9bf7ed738f,"Our app accesses GPS location and sends it to our server.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Sharing,0,1,0,1
+26,Q108,614dec67f6eb129c3a77defd,"Our app accesses GPS location and sends it to our server.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Collection,1,1,0,0
+27,Q109,5e52af31a0002e2c6056b13f,"Our app accesses GPS location and sends it to a third party server.
+
+Please select how you would report our app's data practices regarding GPS location.",Both,1,1,1,0
+28,Q109,5ea043fbbfbe190687467966,"Our app accesses GPS location and sends it to a third party server.
+
+Please select how you would report our app's data practices regarding GPS location.",Both,1,1,0,0
+29,Q109,5eaf3e142627076426921b1b,"Our app accesses GPS location and sends it to a third party server.
+
+Please select how you would report our app's data practices regarding GPS location.",Both,1,1,2,0
+30,Q109,5fe635082fcdc9404d6fc610,"Our app accesses GPS location and sends it to a third party server.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Sharing,0,1,1,-1
+31,Q109,602d86345f6c24812bfc3a4e,"Our app accesses GPS location and sends it to a third party server.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Sharing,0,1,1,-1
+32,Q109,603411dbcf15a5036c87fc2b,"Our app accesses GPS location and sends it to a third party server.
+
+Please select how you would report our app's data practices regarding GPS location.",Both,1,1,1,0
+33,Q109,61123bdc9bdfe87e54a459a6,"Our app accesses GPS location and sends it to a third party server.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Sharing,0,1,1,-1
+34,Q109,6124f281ce42cb9bf7ed738f,"Our app accesses GPS location and sends it to a third party server.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Sharing,0,1,0,-1
+35,Q109,614dec67f6eb129c3a77defd,"Our app accesses GPS location and sends it to a third party server.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Sharing,0,1,0,-1
+36,Q122,5e52af31a0002e2c6056b13f,"Our app allows users to navigate the open web via a webview. When the user opens google.com, it accesses the user's GPS location and sends the GPS location to Google's server.
+
+ 
+
+Please select how you would report our app's data practices regarding GPS location.",Both,0,1,1,-1
+37,Q122,5ea043fbbfbe190687467966,"Our app allows users to navigate the open web via a webview. When the user opens google.com, it accesses the user's GPS location and sends the GPS location to Google's server.
+
+ 
+
+Please select how you would report our app's data practices regarding GPS location.",Data Collection,0,1,0,-1
+38,Q122,5eaf3e142627076426921b1b,"Our app allows users to navigate the open web via a webview. When the user opens google.com, it accesses the user's GPS location and sends the GPS location to Google's server.
+
+ 
+
+Please select how you would report our app's data practices regarding GPS location.",Neither,1,1,2,0
+39,Q122,5fe635082fcdc9404d6fc610,"Our app allows users to navigate the open web via a webview. When the user opens google.com, it accesses the user's GPS location and sends the GPS location to Google's server.
+
+ 
+
+Please select how you would report our app's data practices regarding GPS location.",Both,0,1,1,-1
+40,Q122,602d86345f6c24812bfc3a4e,"Our app allows users to navigate the open web via a webview. When the user opens google.com, it accesses the user's GPS location and sends the GPS location to Google's server.
+
+ 
+
+Please select how you would report our app's data practices regarding GPS location.",Data Sharing,0,1,1,-1
+41,Q122,603411dbcf15a5036c87fc2b,"Our app allows users to navigate the open web via a webview. When the user opens google.com, it accesses the user's GPS location and sends the GPS location to Google's server.
+
+ 
+
+Please select how you would report our app's data practices regarding GPS location.",Neither,1,1,1,0
+42,Q122,61123bdc9bdfe87e54a459a6,"Our app allows users to navigate the open web via a webview. When the user opens google.com, it accesses the user's GPS location and sends the GPS location to Google's server.
+
+ 
+
+Please select how you would report our app's data practices regarding GPS location.",Neither,1,1,1,0
+43,Q122,6124f281ce42cb9bf7ed738f,"Our app allows users to navigate the open web via a webview. When the user opens google.com, it accesses the user's GPS location and sends the GPS location to Google's server.
+
+ 
+
+Please select how you would report our app's data practices regarding GPS location.",Data Sharing,0,1,0,-1
+44,Q122,614dec67f6eb129c3a77defd,"Our app allows users to navigate the open web via a webview. When the user opens google.com, it accesses the user's GPS location and sends the GPS location to Google's server.
+
+ 
+
+Please select how you would report our app's data practices regarding GPS location.",Data Sharing,0,1,0,-1
+45,Q123,5e52af31a0002e2c6056b13f,"Our app sends the user's GPS location to our server to search for nearby places but does not store the GPS location after serving the request.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Neither,0,1,1,1
+46,Q123,5ea043fbbfbe190687467966,"Our app sends the user's GPS location to our server to search for nearby places but does not store the GPS location after serving the request.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Data Collection,1,1,0,0
+47,Q123,5eaf3e142627076426921b1b,"Our app sends the user's GPS location to our server to search for nearby places but does not store the GPS location after serving the request.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Neither,0,1,2,1
+48,Q123,5fe635082fcdc9404d6fc610,"Our app sends the user's GPS location to our server to search for nearby places but does not store the GPS location after serving the request.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Data Sharing,0,1,1,1
+49,Q123,602d86345f6c24812bfc3a4e,"Our app sends the user's GPS location to our server to search for nearby places but does not store the GPS location after serving the request.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Neither,0,1,1,1
+50,Q123,603411dbcf15a5036c87fc2b,"Our app sends the user's GPS location to our server to search for nearby places but does not store the GPS location after serving the request.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Neither,0,1,1,1
+51,Q123,61123bdc9bdfe87e54a459a6,"Our app sends the user's GPS location to our server to search for nearby places but does not store the GPS location after serving the request.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Neither,0,1,1,1
+52,Q123,6124f281ce42cb9bf7ed738f,"Our app sends the user's GPS location to our server to search for nearby places but does not store the GPS location after serving the request.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Data Collection,1,1,0,0
+53,Q123,614dec67f6eb129c3a77defd,"Our app sends the user's GPS location to our server to search for nearby places but does not store the GPS location after serving the request.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Neither,0,1,0,1
+54,Q125,5e52af31a0002e2c6056b13f,"Our app requests for the user's full name and only sends the pseudonymized name to our server. (A pseudonymized name does not allow the individual to be directly identified, but it can be re-associated with the user if additional information is provided)
+Please select how you would report our app's data practices regarding the user's full name.",Data Collection,1,1,1,0
+55,Q125,5ea043fbbfbe190687467966,"Our app requests for the user's full name and only sends the pseudonymized name to our server. (A pseudonymized name does not allow the individual to be directly identified, but it can be re-associated with the user if additional information is provided)
+Please select how you would report our app's data practices regarding the user's full name.",Data Collection,1,1,0,0
+56,Q125,5eaf3e142627076426921b1b,"Our app requests for the user's full name and only sends the pseudonymized name to our server. (A pseudonymized name does not allow the individual to be directly identified, but it can be re-associated with the user if additional information is provided)
+Please select how you would report our app's data practices regarding the user's full name.",Neither,0,1,2,1
+57,Q125,5fe635082fcdc9404d6fc610,"Our app requests for the user's full name and only sends the pseudonymized name to our server. (A pseudonymized name does not allow the individual to be directly identified, but it can be re-associated with the user if additional information is provided)
+Please select how you would report our app's data practices regarding the user's full name.",Data Collection,1,1,1,0
+58,Q125,602d86345f6c24812bfc3a4e,"Our app requests for the user's full name and only sends the pseudonymized name to our server. (A pseudonymized name does not allow the individual to be directly identified, but it can be re-associated with the user if additional information is provided)
+Please select how you would report our app's data practices regarding the user's full name.",Data Collection,1,1,1,0
+59,Q125,603411dbcf15a5036c87fc2b,"Our app requests for the user's full name and only sends the pseudonymized name to our server. (A pseudonymized name does not allow the individual to be directly identified, but it can be re-associated with the user if additional information is provided)
+Please select how you would report our app's data practices regarding the user's full name.",Data Collection,1,1,1,0
+60,Q125,61123bdc9bdfe87e54a459a6,"Our app requests for the user's full name and only sends the pseudonymized name to our server. (A pseudonymized name does not allow the individual to be directly identified, but it can be re-associated with the user if additional information is provided)
+Please select how you would report our app's data practices regarding the user's full name.",Neither,0,1,1,1
+61,Q125,6124f281ce42cb9bf7ed738f,"Our app requests for the user's full name and only sends the pseudonymized name to our server. (A pseudonymized name does not allow the individual to be directly identified, but it can be re-associated with the user if additional information is provided)
+Please select how you would report our app's data practices regarding the user's full name.",Data Collection,1,1,0,0
+62,Q125,614dec67f6eb129c3a77defd,"Our app requests for the user's full name and only sends the pseudonymized name to our server. (A pseudonymized name does not allow the individual to be directly identified, but it can be re-associated with the user if additional information is provided)
+Please select how you would report our app's data practices regarding the user's full name.",Data Collection,1,1,0,0
+63,Q127,5e52af31a0002e2c6056b13f,"Our app asks for a user's birthday for marketing communication, but that info is not required – the user can still sign up without providing that information.
+Please select how you would report our app's data practices regarding the user's birthday.",Both,0,1,1,1
+64,Q127,5ea043fbbfbe190687467966,"Our app asks for a user's birthday for marketing communication, but that info is not required – the user can still sign up without providing that information.
+Please select how you would report our app's data practices regarding the user's birthday.",Data Collection,1,1,0,0
+65,Q127,5eaf3e142627076426921b1b,"Our app asks for a user's birthday for marketing communication, but that info is not required – the user can still sign up without providing that information.
+Please select how you would report our app's data practices regarding the user's birthday.",Both,0,1,2,1
+66,Q127,5fe635082fcdc9404d6fc610,"Our app asks for a user's birthday for marketing communication, but that info is not required – the user can still sign up without providing that information.
+Please select how you would report our app's data practices regarding the user's birthday.",Data Collection,1,1,1,0
+67,Q127,602d86345f6c24812bfc3a4e,"Our app asks for a user's birthday for marketing communication, but that info is not required – the user can still sign up without providing that information.
+Please select how you would report our app's data practices regarding the user's birthday.",Data Sharing,0,1,1,1
+68,Q127,603411dbcf15a5036c87fc2b,"Our app asks for a user's birthday for marketing communication, but that info is not required – the user can still sign up without providing that information.
+Please select how you would report our app's data practices regarding the user's birthday.",Neither,0,1,1,1
+69,Q127,61123bdc9bdfe87e54a459a6,"Our app asks for a user's birthday for marketing communication, but that info is not required – the user can still sign up without providing that information.
+Please select how you would report our app's data practices regarding the user's birthday.",Data Collection,1,1,1,0
+70,Q127,6124f281ce42cb9bf7ed738f,"Our app asks for a user's birthday for marketing communication, but that info is not required – the user can still sign up without providing that information.
+Please select how you would report our app's data practices regarding the user's birthday.",Data Sharing,0,1,0,1
+71,Q127,614dec67f6eb129c3a77defd,"Our app asks for a user's birthday for marketing communication, but that info is not required – the user can still sign up without providing that information.
+Please select how you would report our app's data practices regarding the user's birthday.",Data Collection,1,1,0,0
+72,Q128,5e52af31a0002e2c6056b13f,"We send the user's GPS location stored on our server to a third party server.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Sharing,0,1,1,-1
+73,Q128,5ea043fbbfbe190687467966,"We send the user's GPS location stored on our server to a third party server.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Sharing,0,1,0,-1
+74,Q128,5eaf3e142627076426921b1b,"We send the user's GPS location stored on our server to a third party server.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Sharing,0,1,2,-1
+75,Q128,5fe635082fcdc9404d6fc610,"We send the user's GPS location stored on our server to a third party server.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Sharing,0,1,1,-1
+76,Q128,602d86345f6c24812bfc3a4e,"We send the user's GPS location stored on our server to a third party server.
+
+Please select how you would report our app's data practices regarding GPS location.",Both,1,1,1,0
+77,Q128,603411dbcf15a5036c87fc2b,"We send the user's GPS location stored on our server to a third party server.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Sharing,0,1,1,-1
+78,Q128,61123bdc9bdfe87e54a459a6,"We send the user's GPS location stored on our server to a third party server.
+
+Please select how you would report our app's data practices regarding GPS location.",Both,1,1,1,0
+79,Q128,6124f281ce42cb9bf7ed738f,"We send the user's GPS location stored on our server to a third party server.
+
+Please select how you would report our app's data practices regarding GPS location.",Both,1,1,0,0
+80,Q128,614dec67f6eb129c3a77defd,"We send the user's GPS location stored on our server to a third party server.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Collection,0,1,0,-1
+81,Q129,5e52af31a0002e2c6056b13f,"Our app accesses GPS location and sends it directly to a third party server via libraries and/or SDKs included in our app.
+
+Please select how you would report our app's data practices regarding GPS location.",Both,1,1,1,0
+82,Q129,5ea043fbbfbe190687467966,"Our app accesses GPS location and sends it directly to a third party server via libraries and/or SDKs included in our app.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Sharing,0,1,0,-1
+83,Q129,5eaf3e142627076426921b1b,"Our app accesses GPS location and sends it directly to a third party server via libraries and/or SDKs included in our app.
+
+Please select how you would report our app's data practices regarding GPS location.",Both,1,1,2,0
+84,Q129,5fe635082fcdc9404d6fc610,"Our app accesses GPS location and sends it directly to a third party server via libraries and/or SDKs included in our app.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Sharing,0,1,1,-1
+85,Q129,602d86345f6c24812bfc3a4e,"Our app accesses GPS location and sends it directly to a third party server via libraries and/or SDKs included in our app.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Sharing,0,1,1,-1
+86,Q129,603411dbcf15a5036c87fc2b,"Our app accesses GPS location and sends it directly to a third party server via libraries and/or SDKs included in our app.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Sharing,0,1,1,-1
+87,Q129,61123bdc9bdfe87e54a459a6,"Our app accesses GPS location and sends it directly to a third party server via libraries and/or SDKs included in our app.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Sharing,0,1,1,-1
+88,Q129,6124f281ce42cb9bf7ed738f,"Our app accesses GPS location and sends it directly to a third party server via libraries and/or SDKs included in our app.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Sharing,0,1,0,-1
+89,Q129,614dec67f6eb129c3a77defd,"Our app accesses GPS location and sends it directly to a third party server via libraries and/or SDKs included in our app.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Sharing,0,1,0,-1
+90,Q130,5e52af31a0002e2c6056b13f,"Our app accesses GPS location and stores it on Google's server using Google Cloud Storage.  (Assume that Google doesn't use the GPS location for other purposes)
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Data Collection,1,1,1,0
+91,Q130,5ea043fbbfbe190687467966,"Our app accesses GPS location and stores it on Google's server using Google Cloud Storage.  (Assume that Google doesn't use the GPS location for other purposes)
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Data Collection,1,1,0,0
+92,Q130,5eaf3e142627076426921b1b,"Our app accesses GPS location and stores it on Google's server using Google Cloud Storage.  (Assume that Google doesn't use the GPS location for other purposes)
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Data Collection,1,1,2,0
+93,Q130,5fe635082fcdc9404d6fc610,"Our app accesses GPS location and stores it on Google's server using Google Cloud Storage.  (Assume that Google doesn't use the GPS location for other purposes)
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Both,0,1,1,1
+94,Q130,602d86345f6c24812bfc3a4e,"Our app accesses GPS location and stores it on Google's server using Google Cloud Storage.  (Assume that Google doesn't use the GPS location for other purposes)
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Data Sharing,0,1,1,1
+95,Q130,603411dbcf15a5036c87fc2b,"Our app accesses GPS location and stores it on Google's server using Google Cloud Storage.  (Assume that Google doesn't use the GPS location for other purposes)
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Both,0,1,1,1
+96,Q130,61123bdc9bdfe87e54a459a6,"Our app accesses GPS location and stores it on Google's server using Google Cloud Storage.  (Assume that Google doesn't use the GPS location for other purposes)
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Neither,0,1,1,1
+97,Q130,6124f281ce42cb9bf7ed738f,"Our app accesses GPS location and stores it on Google's server using Google Cloud Storage.  (Assume that Google doesn't use the GPS location for other purposes)
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Both,0,1,0,1
+98,Q130,614dec67f6eb129c3a77defd,"Our app accesses GPS location and stores it on Google's server using Google Cloud Storage.  (Assume that Google doesn't use the GPS location for other purposes)
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Data Collection,1,1,0,0
+99,Q132,5e52af31a0002e2c6056b13f,"Our app sends the user's full name to a third party server after obtaining the user's consent to it.
+
+Please select how you would report your app's data practices regarding the user's full name.",Both,0,1,1,1
+100,Q132,5ea043fbbfbe190687467966,"Our app sends the user's full name to a third party server after obtaining the user's consent to it.
+
+Please select how you would report your app's data practices regarding the user's full name.",Neither,0,1,0,1
+101,Q132,5eaf3e142627076426921b1b,"Our app sends the user's full name to a third party server after obtaining the user's consent to it.
+
+Please select how you would report your app's data practices regarding the user's full name.",Data Collection,1,1,2,0
+102,Q132,5fe635082fcdc9404d6fc610,"Our app sends the user's full name to a third party server after obtaining the user's consent to it.
+
+Please select how you would report your app's data practices regarding the user's full name.",Data Sharing,0,1,1,1
+103,Q132,602d86345f6c24812bfc3a4e,"Our app sends the user's full name to a third party server after obtaining the user's consent to it.
+
+Please select how you would report your app's data practices regarding the user's full name.",Data Sharing,0,1,1,1
+104,Q132,603411dbcf15a5036c87fc2b,"Our app sends the user's full name to a third party server after obtaining the user's consent to it.
+
+Please select how you would report your app's data practices regarding the user's full name.",Data Sharing,0,1,1,1
+105,Q132,61123bdc9bdfe87e54a459a6,"Our app sends the user's full name to a third party server after obtaining the user's consent to it.
+
+Please select how you would report your app's data practices regarding the user's full name.",Neither,0,1,1,1
+106,Q132,6124f281ce42cb9bf7ed738f,"Our app sends the user's full name to a third party server after obtaining the user's consent to it.
+
+Please select how you would report your app's data practices regarding the user's full name.",Data Sharing,0,1,0,1
+107,Q132,614dec67f6eb129c3a77defd,"Our app sends the user's full name to a third party server after obtaining the user's consent to it.
+
+Please select how you would report your app's data practices regarding the user's full name.",Data Sharing,0,1,0,1
+108,Q133,5e52af31a0002e2c6056b13f,"Our app sends the user's medical records that have been fully anonymized to a third party server.
+
+Please select how you would report your app's data practices regarding the user's medical records.",Both,0,1,1,1
+109,Q133,5ea043fbbfbe190687467966,"Our app sends the user's medical records that have been fully anonymized to a third party server.
+
+Please select how you would report your app's data practices regarding the user's medical records.",Both,0,1,0,1
+110,Q133,5eaf3e142627076426921b1b,"Our app sends the user's medical records that have been fully anonymized to a third party server.
+
+Please select how you would report your app's data practices regarding the user's medical records.",Neither,0,1,2,1
+111,Q133,5fe635082fcdc9404d6fc610,"Our app sends the user's medical records that have been fully anonymized to a third party server.
+
+Please select how you would report your app's data practices regarding the user's medical records.",Both,0,1,1,1
+112,Q133,602d86345f6c24812bfc3a4e,"Our app sends the user's medical records that have been fully anonymized to a third party server.
+
+Please select how you would report your app's data practices regarding the user's medical records.",Data Sharing,0,1,1,1
+113,Q133,603411dbcf15a5036c87fc2b,"Our app sends the user's medical records that have been fully anonymized to a third party server.
+
+Please select how you would report your app's data practices regarding the user's medical records.",Data Collection,1,1,1,0
+114,Q133,61123bdc9bdfe87e54a459a6,"Our app sends the user's medical records that have been fully anonymized to a third party server.
+
+Please select how you would report your app's data practices regarding the user's medical records.",Neither,0,1,1,1
+115,Q133,6124f281ce42cb9bf7ed738f,"Our app sends the user's medical records that have been fully anonymized to a third party server.
+
+Please select how you would report your app's data practices regarding the user's medical records.",Both,0,1,0,1
+116,Q133,614dec67f6eb129c3a77defd,"Our app sends the user's medical records that have been fully anonymized to a third party server.
+
+Please select how you would report your app's data practices regarding the user's medical records.",Data Sharing,0,1,0,1
+117,Q135,5e52af31a0002e2c6056b13f,"This is an attention check. Please go ahead and select the option that begins with ""N"".",Neither,1,1,1,0
+118,Q135,5ea043fbbfbe190687467966,"This is an attention check. Please go ahead and select the option that begins with ""N"".",Neither,1,1,0,0
+119,Q135,5eaf3e142627076426921b1b,"This is an attention check. Please go ahead and select the option that begins with ""N"".",Neither,1,1,2,0
+120,Q135,5fe635082fcdc9404d6fc610,"This is an attention check. Please go ahead and select the option that begins with ""N"".",Neither,1,1,1,0
+121,Q135,602d86345f6c24812bfc3a4e,"This is an attention check. Please go ahead and select the option that begins with ""N"".",Neither,1,1,1,0
+122,Q135,603411dbcf15a5036c87fc2b,"This is an attention check. Please go ahead and select the option that begins with ""N"".",Neither,1,1,1,0
+123,Q135,61123bdc9bdfe87e54a459a6,"This is an attention check. Please go ahead and select the option that begins with ""N"".",Neither,1,1,1,0
+124,Q135,6124f281ce42cb9bf7ed738f,"This is an attention check. Please go ahead and select the option that begins with ""N"".",Neither,1,1,0,0
+125,Q135,614dec67f6eb129c3a77defd,"This is an attention check. Please go ahead and select the option that begins with ""N"".",Neither,1,1,0,0
+126,Q137,5e52af31a0002e2c6056b13f,"This is an attention check. Please go ahead and select the option that begins with ""H"".",Health and Fitness,1,2,1,0
+127,Q137,5ea043fbbfbe190687467966,"This is an attention check. Please go ahead and select the option that begins with ""H"".",Health and Fitness,1,2,0,0
+128,Q137,5eaf3e142627076426921b1b,"This is an attention check. Please go ahead and select the option that begins with ""H"".",Health and Fitness,1,2,2,0
+129,Q137,5fe635082fcdc9404d6fc610,"This is an attention check. Please go ahead and select the option that begins with ""H"".",Health and Fitness,1,2,1,0
+130,Q137,602d86345f6c24812bfc3a4e,"This is an attention check. Please go ahead and select the option that begins with ""H"".",Health and Fitness,1,2,1,0
+131,Q137,603411dbcf15a5036c87fc2b,"This is an attention check. Please go ahead and select the option that begins with ""H"".",Health and Fitness,1,2,1,0
+132,Q137,61123bdc9bdfe87e54a459a6,"This is an attention check. Please go ahead and select the option that begins with ""H"".",Health and Fitness,1,2,1,0
+133,Q137,6124f281ce42cb9bf7ed738f,"This is an attention check. Please go ahead and select the option that begins with ""H"".",Health and Fitness,1,2,0,0
+134,Q137,614dec67f6eb129c3a77defd,"This is an attention check. Please go ahead and select the option that begins with ""H"".",Health and Fitness,1,2,0,0
+135,Q16,5e52af31a0002e2c6056b13f,"Our app accesses GPS location and sends it to another app directly on the device. The data never leaves the device.
+(This is feasible because an app can use an Intent to perform some basic interactions with other apps, including sending data)
+
+
+Please select how you would report your app's data practices regarding GPS location.",Data Sharing,1,1,1,0
+136,Q16,5ea043fbbfbe190687467966,"Our app accesses GPS location and sends it to another app directly on the device. The data never leaves the device.
+(This is feasible because an app can use an Intent to perform some basic interactions with other apps, including sending data)
+
+
+Please select how you would report your app's data practices regarding GPS location.",Data Collection,0,1,0,-1
+137,Q16,5eaf3e142627076426921b1b,"Our app accesses GPS location and sends it to another app directly on the device. The data never leaves the device.
+(This is feasible because an app can use an Intent to perform some basic interactions with other apps, including sending data)
+
+
+Please select how you would report your app's data practices regarding GPS location.",Data Sharing,1,1,2,0
+138,Q16,5fe635082fcdc9404d6fc610,"Our app accesses GPS location and sends it to another app directly on the device. The data never leaves the device.
+(This is feasible because an app can use an Intent to perform some basic interactions with other apps, including sending data)
+
+
+Please select how you would report your app's data practices regarding GPS location.",Data Sharing,1,1,1,0
+139,Q16,602d86345f6c24812bfc3a4e,"Our app accesses GPS location and sends it to another app directly on the device. The data never leaves the device.
+(This is feasible because an app can use an Intent to perform some basic interactions with other apps, including sending data)
+
+
+Please select how you would report your app's data practices regarding GPS location.",Neither,0,1,1,1
+140,Q16,603411dbcf15a5036c87fc2b,"Our app accesses GPS location and sends it to another app directly on the device. The data never leaves the device.
+(This is feasible because an app can use an Intent to perform some basic interactions with other apps, including sending data)
+
+
+Please select how you would report your app's data practices regarding GPS location.",Data Sharing,1,1,1,0
+141,Q16,61123bdc9bdfe87e54a459a6,"Our app accesses GPS location and sends it to another app directly on the device. The data never leaves the device.
+(This is feasible because an app can use an Intent to perform some basic interactions with other apps, including sending data)
+
+
+Please select how you would report your app's data practices regarding GPS location.",Neither,0,1,1,1
+142,Q16,6124f281ce42cb9bf7ed738f,"Our app accesses GPS location and sends it to another app directly on the device. The data never leaves the device.
+(This is feasible because an app can use an Intent to perform some basic interactions with other apps, including sending data)
+
+
+Please select how you would report your app's data practices regarding GPS location.",Both,0,1,0,1
+143,Q16,614dec67f6eb129c3a77defd,"Our app accesses GPS location and sends it to another app directly on the device. The data never leaves the device.
+(This is feasible because an app can use an Intent to perform some basic interactions with other apps, including sending data)
+
+
+Please select how you would report your app's data practices regarding GPS location.",Data Sharing,1,1,0,0
+144,Q165,5e52af31a0002e2c6056b13f,location provided by Android’s ACCESS_FINE_LOCATION.,,0,2,1,NaN
+145,Q165,5ea043fbbfbe190687467966,location provided by Android’s ACCESS_FINE_LOCATION.,,0,2,0,NaN
+146,Q165,5eaf3e142627076426921b1b,location provided by Android’s ACCESS_FINE_LOCATION.,,0,2,2,NaN
+147,Q165,5fe635082fcdc9404d6fc610,location provided by Android’s ACCESS_FINE_LOCATION.,,0,2,1,NaN
+148,Q165,602d86345f6c24812bfc3a4e,location provided by Android’s ACCESS_FINE_LOCATION.,,0,2,1,NaN
+149,Q165,603411dbcf15a5036c87fc2b,location provided by Android’s ACCESS_FINE_LOCATION.,,0,2,1,NaN
+150,Q165,61123bdc9bdfe87e54a459a6,location provided by Android’s ACCESS_FINE_LOCATION.,,0,2,1,NaN
+151,Q165,6124f281ce42cb9bf7ed738f,location provided by Android’s ACCESS_FINE_LOCATION.,,0,2,0,NaN
+152,Q165,614dec67f6eb129c3a77defd,location provided by Android’s ACCESS_FINE_LOCATION.,,0,2,0,NaN
+153,Q17,5e52af31a0002e2c6056b13f,"Our app accesses GPS location and sends it to our server via libraries and/or SDKs included in our app.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Collection,1,1,1,0
+154,Q17,5ea043fbbfbe190687467966,"Our app accesses GPS location and sends it to our server via libraries and/or SDKs included in our app.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Collection,1,1,0,0
+155,Q17,5eaf3e142627076426921b1b,"Our app accesses GPS location and sends it to our server via libraries and/or SDKs included in our app.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Collection,1,1,2,0
+156,Q17,5fe635082fcdc9404d6fc610,"Our app accesses GPS location and sends it to our server via libraries and/or SDKs included in our app.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Sharing,0,1,1,1
+157,Q17,602d86345f6c24812bfc3a4e,"Our app accesses GPS location and sends it to our server via libraries and/or SDKs included in our app.
+
+Please select how you would report our app's data practices regarding GPS location.",Both,0,1,1,1
+158,Q17,603411dbcf15a5036c87fc2b,"Our app accesses GPS location and sends it to our server via libraries and/or SDKs included in our app.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Collection,1,1,1,0
+159,Q17,61123bdc9bdfe87e54a459a6,"Our app accesses GPS location and sends it to our server via libraries and/or SDKs included in our app.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Collection,1,1,1,0
+160,Q17,6124f281ce42cb9bf7ed738f,"Our app accesses GPS location and sends it to our server via libraries and/or SDKs included in our app.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Collection,1,1,0,0
+161,Q17,614dec67f6eb129c3a77defd,"Our app accesses GPS location and sends it to our server via libraries and/or SDKs included in our app.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Collection,1,1,0,0
+162,Q19,5e52af31a0002e2c6056b13f,"Our app encrypts the user’s message before it is sent to another user, where it is decrypted.
+Please select how you would report our app's data practices regarding the user's messages.",Neither,1,1,1,0
+163,Q19,5ea043fbbfbe190687467966,"Our app encrypts the user’s message before it is sent to another user, where it is decrypted.
+Please select how you would report our app's data practices regarding the user's messages.",Data Collection,0,1,0,-1
+164,Q19,5eaf3e142627076426921b1b,"Our app encrypts the user’s message before it is sent to another user, where it is decrypted.
+Please select how you would report our app's data practices regarding the user's messages.",Neither,1,1,2,0
+165,Q19,5fe635082fcdc9404d6fc610,"Our app encrypts the user’s message before it is sent to another user, where it is decrypted.
+Please select how you would report our app's data practices regarding the user's messages.",Neither,1,1,1,0
+166,Q19,602d86345f6c24812bfc3a4e,"Our app encrypts the user’s message before it is sent to another user, where it is decrypted.
+Please select how you would report our app's data practices regarding the user's messages.",Data Collection,0,1,1,-1
+167,Q19,603411dbcf15a5036c87fc2b,"Our app encrypts the user’s message before it is sent to another user, where it is decrypted.
+Please select how you would report our app's data practices regarding the user's messages.",Neither,1,1,1,0
+168,Q19,61123bdc9bdfe87e54a459a6,"Our app encrypts the user’s message before it is sent to another user, where it is decrypted.
+Please select how you would report our app's data practices regarding the user's messages.",Neither,1,1,1,0
+169,Q19,6124f281ce42cb9bf7ed738f,"Our app encrypts the user’s message before it is sent to another user, where it is decrypted.
+Please select how you would report our app's data practices regarding the user's messages.",Data Collection,0,1,0,-1
+170,Q19,614dec67f6eb129c3a77defd,"Our app encrypts the user’s message before it is sent to another user, where it is decrypted.
+Please select how you would report our app's data practices regarding the user's messages.",Neither,1,1,0,0
+171,Q190,5e52af31a0002e2c6056b13f,user/device physical location to area greater than or equal to three square kilometers,,0,2,1,NaN
+172,Q190,5ea043fbbfbe190687467966,user/device physical location to area greater than or equal to three square kilometers,Location,1,2,0,0
+173,Q190,5eaf3e142627076426921b1b,user/device physical location to area greater than or equal to three square kilometers,,0,2,2,NaN
+174,Q190,5fe635082fcdc9404d6fc610,user/device physical location to area greater than or equal to three square kilometers,Location,1,2,1,0
+175,Q190,602d86345f6c24812bfc3a4e,user/device physical location to area greater than or equal to three square kilometers,,0,2,1,NaN
+176,Q190,603411dbcf15a5036c87fc2b,user/device physical location to area greater than or equal to three square kilometers,,0,2,1,NaN
+177,Q190,61123bdc9bdfe87e54a459a6,user/device physical location to area greater than or equal to three square kilometers,Location,1,2,1,0
+178,Q190,6124f281ce42cb9bf7ed738f,user/device physical location to area greater than or equal to three square kilometers,,0,2,0,NaN
+179,Q190,614dec67f6eb129c3a77defd,user/device physical location to area greater than or equal to three square kilometers,,0,2,0,NaN
+180,Q20,5e52af31a0002e2c6056b13f,"Our app directly opens our own website in a webview, our website then accesses the user's GPS location through the webview, and sends it to our server.
+
+ 
+
+Please select how you would report your app's data practices regarding GPS location.",Both,0,1,1,1
+181,Q20,5ea043fbbfbe190687467966,"Our app directly opens our own website in a webview, our website then accesses the user's GPS location through the webview, and sends it to our server.
+
+ 
+
+Please select how you would report your app's data practices regarding GPS location.",Data Collection,1,1,0,0
+182,Q20,5eaf3e142627076426921b1b,"Our app directly opens our own website in a webview, our website then accesses the user's GPS location through the webview, and sends it to our server.
+
+ 
+
+Please select how you would report your app's data practices regarding GPS location.",Data Collection,1,1,2,0
+183,Q20,5fe635082fcdc9404d6fc610,"Our app directly opens our own website in a webview, our website then accesses the user's GPS location through the webview, and sends it to our server.
+
+ 
+
+Please select how you would report your app's data practices regarding GPS location.",Both,0,1,1,1
+184,Q20,602d86345f6c24812bfc3a4e,"Our app directly opens our own website in a webview, our website then accesses the user's GPS location through the webview, and sends it to our server.
+
+ 
+
+Please select how you would report your app's data practices regarding GPS location.",Data Collection,1,1,1,0
+185,Q20,603411dbcf15a5036c87fc2b,"Our app directly opens our own website in a webview, our website then accesses the user's GPS location through the webview, and sends it to our server.
+
+ 
+
+Please select how you would report your app's data practices regarding GPS location.",Data Collection,1,1,1,0
+186,Q20,61123bdc9bdfe87e54a459a6,"Our app directly opens our own website in a webview, our website then accesses the user's GPS location through the webview, and sends it to our server.
+
+ 
+
+Please select how you would report your app's data practices regarding GPS location.",Data Collection,1,1,1,0
+187,Q20,6124f281ce42cb9bf7ed738f,"Our app directly opens our own website in a webview, our website then accesses the user's GPS location through the webview, and sends it to our server.
+
+ 
+
+Please select how you would report your app's data practices regarding GPS location.",Both,0,1,0,1
+188,Q20,614dec67f6eb129c3a77defd,"Our app directly opens our own website in a webview, our website then accesses the user's GPS location through the webview, and sends it to our server.
+
+ 
+
+Please select how you would report your app's data practices regarding GPS location.",Data Collection,1,1,0,0
+189,Q21,5e52af31a0002e2c6056b13f,"Our app allows users to navigate the open web via a webview. When the user opens google.com, it accesses the user's GPS location and sends the GPS location to a third party server.
+
+ 
+
+Please select how you would report our app's data practices regarding GPS location.",Both,0,1,1,-1
+190,Q21,5ea043fbbfbe190687467966,"Our app allows users to navigate the open web via a webview. When the user opens google.com, it accesses the user's GPS location and sends the GPS location to a third party server.
+
+ 
+
+Please select how you would report our app's data practices regarding GPS location.",Data Sharing,0,1,0,-1
+191,Q21,5eaf3e142627076426921b1b,"Our app allows users to navigate the open web via a webview. When the user opens google.com, it accesses the user's GPS location and sends the GPS location to a third party server.
+
+ 
+
+Please select how you would report our app's data practices regarding GPS location.",Neither,1,1,2,0
+192,Q21,5fe635082fcdc9404d6fc610,"Our app allows users to navigate the open web via a webview. When the user opens google.com, it accesses the user's GPS location and sends the GPS location to a third party server.
+
+ 
+
+Please select how you would report our app's data practices regarding GPS location.",Data Sharing,0,1,1,-1
+193,Q21,602d86345f6c24812bfc3a4e,"Our app allows users to navigate the open web via a webview. When the user opens google.com, it accesses the user's GPS location and sends the GPS location to a third party server.
+
+ 
+
+Please select how you would report our app's data practices regarding GPS location.",Data Sharing,0,1,1,-1
+194,Q21,603411dbcf15a5036c87fc2b,"Our app allows users to navigate the open web via a webview. When the user opens google.com, it accesses the user's GPS location and sends the GPS location to a third party server.
+
+ 
+
+Please select how you would report our app's data practices regarding GPS location.",Data Sharing,0,1,1,-1
+195,Q21,61123bdc9bdfe87e54a459a6,"Our app allows users to navigate the open web via a webview. When the user opens google.com, it accesses the user's GPS location and sends the GPS location to a third party server.
+
+ 
+
+Please select how you would report our app's data practices regarding GPS location.",Data Sharing,0,1,1,-1
+196,Q21,6124f281ce42cb9bf7ed738f,"Our app allows users to navigate the open web via a webview. When the user opens google.com, it accesses the user's GPS location and sends the GPS location to a third party server.
+
+ 
+
+Please select how you would report our app's data practices regarding GPS location.",Both,0,1,0,-1
+197,Q21,614dec67f6eb129c3a77defd,"Our app allows users to navigate the open web via a webview. When the user opens google.com, it accesses the user's GPS location and sends the GPS location to a third party server.
+
+ 
+
+Please select how you would report our app's data practices regarding GPS location.",Data Sharing,0,1,0,-1
+198,Q22,5e52af31a0002e2c6056b13f,"Our app directly opens our own website in a webview, our website accesses the GPS location through the webview, and sends it to a third party server.
+
+ 
+
+Please select how you would report your app's data practices regarding GPS location.",Both,1,1,1,0
+199,Q22,5ea043fbbfbe190687467966,"Our app directly opens our own website in a webview, our website accesses the GPS location through the webview, and sends it to a third party server.
+
+ 
+
+Please select how you would report your app's data practices regarding GPS location.",Data Sharing,0,1,0,-1
+200,Q22,5eaf3e142627076426921b1b,"Our app directly opens our own website in a webview, our website accesses the GPS location through the webview, and sends it to a third party server.
+
+ 
+
+Please select how you would report your app's data practices regarding GPS location.",Data Sharing,0,1,2,-1
+201,Q22,5fe635082fcdc9404d6fc610,"Our app directly opens our own website in a webview, our website accesses the GPS location through the webview, and sends it to a third party server.
+
+ 
+
+Please select how you would report your app's data practices regarding GPS location.",Data Collection,0,1,1,-1
+202,Q22,602d86345f6c24812bfc3a4e,"Our app directly opens our own website in a webview, our website accesses the GPS location through the webview, and sends it to a third party server.
+
+ 
+
+Please select how you would report your app's data practices regarding GPS location.",Both,1,1,1,0
+203,Q22,603411dbcf15a5036c87fc2b,"Our app directly opens our own website in a webview, our website accesses the GPS location through the webview, and sends it to a third party server.
+
+ 
+
+Please select how you would report your app's data practices regarding GPS location.",Data Sharing,0,1,1,-1
+204,Q22,61123bdc9bdfe87e54a459a6,"Our app directly opens our own website in a webview, our website accesses the GPS location through the webview, and sends it to a third party server.
+
+ 
+
+Please select how you would report your app's data practices regarding GPS location.",Data Sharing,0,1,1,-1
+205,Q22,6124f281ce42cb9bf7ed738f,"Our app directly opens our own website in a webview, our website accesses the GPS location through the webview, and sends it to a third party server.
+
+ 
+
+Please select how you would report your app's data practices regarding GPS location.",Both,1,1,0,0
+206,Q22,614dec67f6eb129c3a77defd,"Our app directly opens our own website in a webview, our website accesses the GPS location through the webview, and sends it to a third party server.
+
+ 
+
+Please select how you would report your app's data practices regarding GPS location.",Both,1,1,0,0
+207,Q23,5e52af31a0002e2c6056b13f,"Our app's user explicitly initiates an action that sends their full name to a third party server.
+
+Please select how you would report your app's data practices regarding the user's full name.",Both,0,1,1,1
+208,Q23,5ea043fbbfbe190687467966,"Our app's user explicitly initiates an action that sends their full name to a third party server.
+
+Please select how you would report your app's data practices regarding the user's full name.",Data Sharing,0,1,0,1
+209,Q23,5eaf3e142627076426921b1b,"Our app's user explicitly initiates an action that sends their full name to a third party server.
+
+Please select how you would report your app's data practices regarding the user's full name.",Data Collection,1,1,2,0
+210,Q23,5fe635082fcdc9404d6fc610,"Our app's user explicitly initiates an action that sends their full name to a third party server.
+
+Please select how you would report your app's data practices regarding the user's full name.",Data Sharing,0,1,1,1
+211,Q23,602d86345f6c24812bfc3a4e,"Our app's user explicitly initiates an action that sends their full name to a third party server.
+
+Please select how you would report your app's data practices regarding the user's full name.",Data Sharing,0,1,1,1
+212,Q23,603411dbcf15a5036c87fc2b,"Our app's user explicitly initiates an action that sends their full name to a third party server.
+
+Please select how you would report your app's data practices regarding the user's full name.",Data Sharing,0,1,1,1
+213,Q23,61123bdc9bdfe87e54a459a6,"Our app's user explicitly initiates an action that sends their full name to a third party server.
+
+Please select how you would report your app's data practices regarding the user's full name.",Data Sharing,0,1,1,1
+214,Q23,6124f281ce42cb9bf7ed738f,"Our app's user explicitly initiates an action that sends their full name to a third party server.
+
+Please select how you would report your app's data practices regarding the user's full name.",Data Sharing,0,1,0,1
+215,Q23,614dec67f6eb129c3a77defd,"Our app's user explicitly initiates an action that sends their full name to a third party server.
+
+Please select how you would report your app's data practices regarding the user's full name.",Data Sharing,0,1,0,1
+216,Q24,5e52af31a0002e2c6056b13f,"Our app accesses and processes the user's GPS location directly on the user’s device. The data never leaves the device.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Neither,1,1,1,0
+217,Q24,5ea043fbbfbe190687467966,"Our app accesses and processes the user's GPS location directly on the user’s device. The data never leaves the device.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Neither,1,1,0,0
+218,Q24,5eaf3e142627076426921b1b,"Our app accesses and processes the user's GPS location directly on the user’s device. The data never leaves the device.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Neither,1,1,2,0
+219,Q24,5fe635082fcdc9404d6fc610,"Our app accesses and processes the user's GPS location directly on the user’s device. The data never leaves the device.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Data Collection,0,1,1,-1
+220,Q24,602d86345f6c24812bfc3a4e,"Our app accesses and processes the user's GPS location directly on the user’s device. The data never leaves the device.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Neither,1,1,1,0
+221,Q24,603411dbcf15a5036c87fc2b,"Our app accesses and processes the user's GPS location directly on the user’s device. The data never leaves the device.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Neither,1,1,1,0
+222,Q24,61123bdc9bdfe87e54a459a6,"Our app accesses and processes the user's GPS location directly on the user’s device. The data never leaves the device.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Neither,1,1,1,0
+223,Q24,6124f281ce42cb9bf7ed738f,"Our app accesses and processes the user's GPS location directly on the user’s device. The data never leaves the device.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Data Collection,0,1,0,-1
+224,Q24,614dec67f6eb129c3a77defd,"Our app accesses and processes the user's GPS location directly on the user’s device. The data never leaves the device.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Neither,1,1,0,0
+225,Q25,5e52af31a0002e2c6056b13f,"Our app accesses the user’s GPS location and sends it to government agencies in response to a legal request.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Both,0,1,1,1
+226,Q25,5ea043fbbfbe190687467966,"Our app accesses the user’s GPS location and sends it to government agencies in response to a legal request.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Both,0,1,0,1
+227,Q25,5eaf3e142627076426921b1b,"Our app accesses the user’s GPS location and sends it to government agencies in response to a legal request.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Data Sharing,0,1,2,1
+228,Q25,5fe635082fcdc9404d6fc610,"Our app accesses the user’s GPS location and sends it to government agencies in response to a legal request.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Both,0,1,1,1
+229,Q25,602d86345f6c24812bfc3a4e,"Our app accesses the user’s GPS location and sends it to government agencies in response to a legal request.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Data Sharing,0,1,1,1
+230,Q25,603411dbcf15a5036c87fc2b,"Our app accesses the user’s GPS location and sends it to government agencies in response to a legal request.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Both,0,1,1,1
+231,Q25,61123bdc9bdfe87e54a459a6,"Our app accesses the user’s GPS location and sends it to government agencies in response to a legal request.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Neither,0,1,1,1
+232,Q25,6124f281ce42cb9bf7ed738f,"Our app accesses the user’s GPS location and sends it to government agencies in response to a legal request.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Both,0,1,0,1
+233,Q25,614dec67f6eb129c3a77defd,"Our app accesses the user’s GPS location and sends it to government agencies in response to a legal request.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Data Collection,1,1,0,0
+234,Q26,5e52af31a0002e2c6056b13f,"Our app encrypts the user’s bank account information and sends it to our server.
+
+Please select how you would report our app's data practices regarding the user's bank account information.",Data Collection,1,1,1,0
+235,Q26,5ea043fbbfbe190687467966,"Our app encrypts the user’s bank account information and sends it to our server.
+
+Please select how you would report our app's data practices regarding the user's bank account information.",Data Collection,1,1,0,0
+236,Q26,5eaf3e142627076426921b1b,"Our app encrypts the user’s bank account information and sends it to our server.
+
+Please select how you would report our app's data practices regarding the user's bank account information.",Neither,0,1,2,1
+237,Q26,5fe635082fcdc9404d6fc610,"Our app encrypts the user’s bank account information and sends it to our server.
+
+Please select how you would report our app's data practices regarding the user's bank account information.",Data Collection,1,1,1,0
+238,Q26,602d86345f6c24812bfc3a4e,"Our app encrypts the user’s bank account information and sends it to our server.
+
+Please select how you would report our app's data practices regarding the user's bank account information.",Data Collection,1,1,1,0
+239,Q26,603411dbcf15a5036c87fc2b,"Our app encrypts the user’s bank account information and sends it to our server.
+
+Please select how you would report our app's data practices regarding the user's bank account information.",Data Collection,1,1,1,0
+240,Q26,61123bdc9bdfe87e54a459a6,"Our app encrypts the user’s bank account information and sends it to our server.
+
+Please select how you would report our app's data practices regarding the user's bank account information.",Neither,0,1,1,1
+241,Q26,6124f281ce42cb9bf7ed738f,"Our app encrypts the user’s bank account information and sends it to our server.
+
+Please select how you would report our app's data practices regarding the user's bank account information.",Data Collection,1,1,0,0
+242,Q26,614dec67f6eb129c3a77defd,"Our app encrypts the user’s bank account information and sends it to our server.
+
+Please select how you would report our app's data practices regarding the user's bank account information.",Data Collection,1,1,0,0
+243,Q27,5e52af31a0002e2c6056b13f,"Our app accesses GPS location and sends it off the device to Google Maps to get real-time traffic updates. (Assume that Google don't use the GPS location for other purposes)
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Both,0,1,1,1
+244,Q27,5ea043fbbfbe190687467966,"Our app accesses GPS location and sends it off the device to Google Maps to get real-time traffic updates. (Assume that Google don't use the GPS location for other purposes)
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Data Collection,1,1,0,0
+245,Q27,5eaf3e142627076426921b1b,"Our app accesses GPS location and sends it off the device to Google Maps to get real-time traffic updates. (Assume that Google don't use the GPS location for other purposes)
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Both,0,1,2,1
+246,Q27,5fe635082fcdc9404d6fc610,"Our app accesses GPS location and sends it off the device to Google Maps to get real-time traffic updates. (Assume that Google don't use the GPS location for other purposes)
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Data Sharing,0,1,1,1
+247,Q27,602d86345f6c24812bfc3a4e,"Our app accesses GPS location and sends it off the device to Google Maps to get real-time traffic updates. (Assume that Google don't use the GPS location for other purposes)
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Data Sharing,0,1,1,1
+248,Q27,603411dbcf15a5036c87fc2b,"Our app accesses GPS location and sends it off the device to Google Maps to get real-time traffic updates. (Assume that Google don't use the GPS location for other purposes)
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Data Sharing,0,1,1,1
+249,Q27,61123bdc9bdfe87e54a459a6,"Our app accesses GPS location and sends it off the device to Google Maps to get real-time traffic updates. (Assume that Google don't use the GPS location for other purposes)
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Data Sharing,0,1,1,1
+250,Q27,6124f281ce42cb9bf7ed738f,"Our app accesses GPS location and sends it off the device to Google Maps to get real-time traffic updates. (Assume that Google don't use the GPS location for other purposes)
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Data Sharing,0,1,0,1
+251,Q27,614dec67f6eb129c3a77defd,"Our app accesses GPS location and sends it off the device to Google Maps to get real-time traffic updates. (Assume that Google don't use the GPS location for other purposes)
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Data Sharing,0,1,0,1
+252,Q28,5e52af31a0002e2c6056b13f,location provided by Android's ACCESS_COARSE_LOCATION,,0,2,1,NaN
+253,Q28,5ea043fbbfbe190687467966,location provided by Android's ACCESS_COARSE_LOCATION,Location ,0,2,0,NaN
+254,Q28,5eaf3e142627076426921b1b,location provided by Android's ACCESS_COARSE_LOCATION,,0,2,2,NaN
+255,Q28,5fe635082fcdc9404d6fc610,location provided by Android's ACCESS_COARSE_LOCATION,,0,2,1,NaN
+256,Q28,602d86345f6c24812bfc3a4e,location provided by Android's ACCESS_COARSE_LOCATION,,0,2,1,NaN
+257,Q28,603411dbcf15a5036c87fc2b,location provided by Android's ACCESS_COARSE_LOCATION,,0,2,1,NaN
+258,Q28,61123bdc9bdfe87e54a459a6,location provided by Android's ACCESS_COARSE_LOCATION,,0,2,1,NaN
+259,Q28,6124f281ce42cb9bf7ed738f,location provided by Android's ACCESS_COARSE_LOCATION,,0,2,0,NaN
+260,Q28,614dec67f6eb129c3a77defd,location provided by Android's ACCESS_COARSE_LOCATION,,0,2,0,NaN
+261,Q29,5e52af31a0002e2c6056b13f,user or device physical location within an area less than 3 square kilometers,,0,2,1,NaN
+262,Q29,5ea043fbbfbe190687467966,user or device physical location within an area less than 3 square kilometers,,0,2,0,NaN
+263,Q29,5eaf3e142627076426921b1b,user or device physical location within an area less than 3 square kilometers,,0,2,2,NaN
+264,Q29,5fe635082fcdc9404d6fc610,user or device physical location within an area less than 3 square kilometers,Location,1,2,1,0
+265,Q29,602d86345f6c24812bfc3a4e,user or device physical location within an area less than 3 square kilometers,,0,2,1,NaN
+266,Q29,603411dbcf15a5036c87fc2b,user or device physical location within an area less than 3 square kilometers,,0,2,1,NaN
+267,Q29,61123bdc9bdfe87e54a459a6,user or device physical location within an area less than 3 square kilometers,Location,1,2,1,0
+268,Q29,6124f281ce42cb9bf7ed738f,user or device physical location within an area less than 3 square kilometers,,0,2,0,NaN
+269,Q29,614dec67f6eb129c3a77defd,user or device physical location within an area less than 3 square kilometers,Location,1,2,0,0
+270,Q30,5e52af31a0002e2c6056b13f,location provided by Android’s ACCESS_FINE_LOCATION.,,0,2,1,NaN
+271,Q30,5ea043fbbfbe190687467966,location provided by Android’s ACCESS_FINE_LOCATION.,,0,2,0,NaN
+272,Q30,5eaf3e142627076426921b1b,location provided by Android’s ACCESS_FINE_LOCATION.,Location,1,2,2,0
+273,Q30,5fe635082fcdc9404d6fc610,location provided by Android’s ACCESS_FINE_LOCATION.,,0,2,1,NaN
+274,Q30,602d86345f6c24812bfc3a4e,location provided by Android’s ACCESS_FINE_LOCATION.,,0,2,1,NaN
+275,Q30,603411dbcf15a5036c87fc2b,location provided by Android’s ACCESS_FINE_LOCATION.,Location,1,2,1,0
+276,Q30,61123bdc9bdfe87e54a459a6,location provided by Android’s ACCESS_FINE_LOCATION.,,0,2,1,NaN
+277,Q30,6124f281ce42cb9bf7ed738f,location provided by Android’s ACCESS_FINE_LOCATION.,,0,2,0,NaN
+278,Q30,614dec67f6eb129c3a77defd,location provided by Android’s ACCESS_FINE_LOCATION.,,0,2,0,NaN
+279,Q31,5e52af31a0002e2c6056b13f,the user's name,,0,2,1,NaN
+280,Q31,5ea043fbbfbe190687467966,the user's name,,0,2,0,NaN
+281,Q31,5eaf3e142627076426921b1b,the user's name,Personal Information,1,2,2,0
+282,Q31,5fe635082fcdc9404d6fc610,the user's name,Personal Information,1,2,1,0
+283,Q31,602d86345f6c24812bfc3a4e,the user's name,,0,2,1,NaN
+284,Q31,603411dbcf15a5036c87fc2b,the user's name,Personal Information,1,2,1,0
+285,Q31,61123bdc9bdfe87e54a459a6,the user's name,,0,2,1,NaN
+286,Q31,6124f281ce42cb9bf7ed738f,the user's name,,0,2,0,NaN
+287,Q31,614dec67f6eb129c3a77defd,the user's name,,0,2,0,NaN
+288,Q32,5e52af31a0002e2c6056b13f,the user's personal email address,,0,2,1,NaN
+289,Q32,5ea043fbbfbe190687467966,the user's personal email address,,0,2,0,NaN
+290,Q32,5eaf3e142627076426921b1b,the user's personal email address,,0,2,2,NaN
+291,Q32,5fe635082fcdc9404d6fc610,the user's personal email address,,0,2,1,NaN
+292,Q32,602d86345f6c24812bfc3a4e,the user's personal email address,,0,2,1,NaN
+293,Q32,603411dbcf15a5036c87fc2b,the user's personal email address,,0,2,1,NaN
+294,Q32,61123bdc9bdfe87e54a459a6,the user's personal email address,,0,2,1,NaN
+295,Q32,6124f281ce42cb9bf7ed738f,the user's personal email address,Personal Information,1,2,0,0
+296,Q32,614dec67f6eb129c3a77defd,the user's personal email address,Personal Information,1,2,0,0
+297,Q33,5e52af31a0002e2c6056b13f,the user's account ID,,0,2,1,NaN
+298,Q33,5ea043fbbfbe190687467966,the user's account ID,Personal Information,1,2,0,0
+299,Q33,5eaf3e142627076426921b1b,the user's account ID,,0,2,2,NaN
+300,Q33,5fe635082fcdc9404d6fc610,the user's account ID,App Activity,0,2,1,1
+301,Q33,602d86345f6c24812bfc3a4e,the user's account ID,,0,2,1,NaN
+302,Q33,603411dbcf15a5036c87fc2b,the user's account ID,,0,2,1,NaN
+303,Q33,61123bdc9bdfe87e54a459a6,the user's account ID,,0,2,1,NaN
+304,Q33,6124f281ce42cb9bf7ed738f,the user's account ID,,0,2,0,NaN
+305,Q33,614dec67f6eb129c3a77defd,the user's account ID,,0,2,0,NaN
+306,Q34,5e52af31a0002e2c6056b13f,the user's account name,,0,2,1,NaN
+307,Q34,5ea043fbbfbe190687467966,the user's account name,,0,2,0,NaN
+308,Q34,5eaf3e142627076426921b1b,the user's account name,,0,2,2,NaN
+309,Q34,5fe635082fcdc9404d6fc610,the user's account name,App Activity,0,2,1,1
+310,Q34,602d86345f6c24812bfc3a4e,the user's account name,,0,2,1,NaN
+311,Q34,603411dbcf15a5036c87fc2b,the user's account name,,0,2,1,NaN
+312,Q34,61123bdc9bdfe87e54a459a6,the user's account name,,0,2,1,NaN
+313,Q34,6124f281ce42cb9bf7ed738f,the user's account name,,0,2,0,NaN
+314,Q34,614dec67f6eb129c3a77defd,the user's account name,Personal Information,1,2,0,0
+315,Q36,5e52af31a0002e2c6056b13f,the user's account number,,0,2,1,NaN
+316,Q36,5ea043fbbfbe190687467966,the user's account number,Personal Information,1,2,0,0
+317,Q36,5eaf3e142627076426921b1b,the user's account number,,0,2,2,NaN
+318,Q36,5fe635082fcdc9404d6fc610,the user's account number,,0,2,1,NaN
+319,Q36,602d86345f6c24812bfc3a4e,the user's account number,,0,2,1,NaN
+320,Q36,603411dbcf15a5036c87fc2b,the user's account number,,0,2,1,NaN
+321,Q36,61123bdc9bdfe87e54a459a6,the user's account number,,0,2,1,NaN
+322,Q36,6124f281ce42cb9bf7ed738f,the user's account number,,0,2,0,NaN
+323,Q36,614dec67f6eb129c3a77defd,the user's account number,Device or Other Identifiers,0,2,0,1
+324,Q37,5e52af31a0002e2c6056b13f,the user's mailing or home address,,0,2,1,NaN
+325,Q37,5ea043fbbfbe190687467966,the user's mailing or home address,,0,2,0,NaN
+326,Q37,5eaf3e142627076426921b1b,the user's mailing or home address,,0,2,2,NaN
+327,Q37,5fe635082fcdc9404d6fc610,the user's mailing or home address,,0,2,1,NaN
+328,Q37,602d86345f6c24812bfc3a4e,the user's mailing or home address,Personal Information,1,2,1,0
+329,Q37,603411dbcf15a5036c87fc2b,the user's mailing or home address,,0,2,1,NaN
+330,Q37,61123bdc9bdfe87e54a459a6,the user's mailing or home address,Personal Information,1,2,1,0
+331,Q37,6124f281ce42cb9bf7ed738f,the user's mailing or home address,,0,2,0,NaN
+332,Q37,614dec67f6eb129c3a77defd,the user's mailing or home address,,0,2,0,NaN
+333,Q38,5e52af31a0002e2c6056b13f,the user's race or ethnicity,Personal Information,1,2,1,0
+334,Q38,5ea043fbbfbe190687467966,the user's race or ethnicity,Personal Information,1,2,0,0
+335,Q38,5eaf3e142627076426921b1b,the user's race or ethnicity,,0,2,2,NaN
+336,Q38,5fe635082fcdc9404d6fc610,the user's race or ethnicity,,0,2,1,NaN
+337,Q38,602d86345f6c24812bfc3a4e,the user's race or ethnicity,,0,2,1,NaN
+338,Q38,603411dbcf15a5036c87fc2b,the user's race or ethnicity,,0,2,1,NaN
+339,Q38,61123bdc9bdfe87e54a459a6,the user's race or ethnicity,,0,2,1,NaN
+340,Q38,6124f281ce42cb9bf7ed738f,the user's race or ethnicity,Personal Information,1,2,0,0
+341,Q38,614dec67f6eb129c3a77defd,the user's race or ethnicity,,0,2,0,NaN
+342,Q39,5e52af31a0002e2c6056b13f,the user's sexual orientation,Personal Information,1,2,1,0
+343,Q39,5ea043fbbfbe190687467966,the user's sexual orientation,,0,2,0,NaN
+344,Q39,5eaf3e142627076426921b1b,the user's sexual orientation,,0,2,2,NaN
+345,Q39,5fe635082fcdc9404d6fc610,the user's sexual orientation,Personal Information,1,2,1,0
+346,Q39,602d86345f6c24812bfc3a4e,the user's sexual orientation,,0,2,1,NaN
+347,Q39,603411dbcf15a5036c87fc2b,the user's sexual orientation,,0,2,1,NaN
+348,Q39,61123bdc9bdfe87e54a459a6,the user's sexual orientation,,0,2,1,NaN
+349,Q39,6124f281ce42cb9bf7ed738f,the user's sexual orientation,,0,2,0,NaN
+350,Q39,614dec67f6eb129c3a77defd,the user's sexual orientation,,0,2,0,NaN
+351,Q40,5e52af31a0002e2c6056b13f,the user's political beliefs,,0,2,1,NaN
+352,Q40,5ea043fbbfbe190687467966,the user's political beliefs,,0,2,0,NaN
+353,Q40,5eaf3e142627076426921b1b,the user's political beliefs,Personal Information,1,2,2,0
+354,Q40,5fe635082fcdc9404d6fc610,the user's political beliefs,,0,2,1,NaN
+355,Q40,602d86345f6c24812bfc3a4e,the user's political beliefs,,0,2,1,NaN
+356,Q40,603411dbcf15a5036c87fc2b,the user's political beliefs,Personal Information,1,2,1,0
+357,Q40,61123bdc9bdfe87e54a459a6,the user's political beliefs,Personal Information,1,2,1,0
+358,Q40,6124f281ce42cb9bf7ed738f,the user's political beliefs,,0,2,0,NaN
+359,Q40,614dec67f6eb129c3a77defd,the user's political beliefs,,0,2,0,NaN
+360,Q41,5e52af31a0002e2c6056b13f,the user's religious beliefs,,0,2,1,NaN
+361,Q41,5ea043fbbfbe190687467966,the user's religious beliefs,Personal Information,1,2,0,0
+362,Q41,5eaf3e142627076426921b1b,the user's religious beliefs,,0,2,2,NaN
+363,Q41,5fe635082fcdc9404d6fc610,the user's religious beliefs,,0,2,1,NaN
+364,Q41,602d86345f6c24812bfc3a4e,the user's religious beliefs,,0,2,1,NaN
+365,Q41,603411dbcf15a5036c87fc2b,the user's religious beliefs,,0,2,1,NaN
+366,Q41,61123bdc9bdfe87e54a459a6,the user's religious beliefs,Personal Information,1,2,1,0
+367,Q41,6124f281ce42cb9bf7ed738f,the user's religious beliefs,,0,2,0,NaN
+368,Q41,614dec67f6eb129c3a77defd,the user's religious beliefs,,0,2,0,NaN
+369,Q42,5e52af31a0002e2c6056b13f,the user's personal phone number,,0,2,1,NaN
+370,Q42,5ea043fbbfbe190687467966,the user's personal phone number,,0,2,0,NaN
+371,Q42,5eaf3e142627076426921b1b,the user's personal phone number,Personal Information,1,2,2,0
+372,Q42,5fe635082fcdc9404d6fc610,the user's personal phone number,Personal Information,1,2,1,0
+373,Q42,602d86345f6c24812bfc3a4e,the user's personal phone number,,0,2,1,NaN
+374,Q42,603411dbcf15a5036c87fc2b,the user's personal phone number,,0,2,1,NaN
+375,Q42,61123bdc9bdfe87e54a459a6,the user's personal phone number,Personal Information,1,2,1,0
+376,Q42,6124f281ce42cb9bf7ed738f,the user's personal phone number,,0,2,0,NaN
+377,Q42,614dec67f6eb129c3a77defd,the user's personal phone number,,0,2,0,NaN
+378,Q43,5e52af31a0002e2c6056b13f,the user's date of birth,Personal Information,1,2,1,0
+379,Q43,5ea043fbbfbe190687467966,the user's date of birth,Personal Information,1,2,0,0
+380,Q43,5eaf3e142627076426921b1b,the user's date of birth,,0,2,2,NaN
+381,Q43,5fe635082fcdc9404d6fc610,the user's date of birth,,0,2,1,NaN
+382,Q43,602d86345f6c24812bfc3a4e,the user's date of birth,,0,2,1,NaN
+383,Q43,603411dbcf15a5036c87fc2b,the user's date of birth,,0,2,1,NaN
+384,Q43,61123bdc9bdfe87e54a459a6,the user's date of birth,,0,2,1,NaN
+385,Q43,6124f281ce42cb9bf7ed738f,the user's date of birth,Personal Information,1,2,0,0
+386,Q43,614dec67f6eb129c3a77defd,the user's date of birth,,0,2,0,NaN
+387,Q44,5e52af31a0002e2c6056b13f,the user's gender identity,,0,2,1,NaN
+388,Q44,5ea043fbbfbe190687467966,the user's gender identity,,0,2,0,NaN
+389,Q44,5eaf3e142627076426921b1b,the user's gender identity,Personal Information,1,2,2,0
+390,Q44,5fe635082fcdc9404d6fc610,the user's gender identity,,0,2,1,NaN
+391,Q44,602d86345f6c24812bfc3a4e,the user's gender identity,Personal Information,1,2,1,0
+392,Q44,603411dbcf15a5036c87fc2b,the user's gender identity,Personal Information,1,2,1,0
+393,Q44,61123bdc9bdfe87e54a459a6,the user's gender identity,,0,2,1,NaN
+394,Q44,6124f281ce42cb9bf7ed738f,the user's gender identity,,0,2,0,NaN
+395,Q44,614dec67f6eb129c3a77defd,the user's gender identity,,0,2,0,NaN
+396,Q45,5e52af31a0002e2c6056b13f,the user's veteran status,,0,2,1,NaN
+397,Q45,5ea043fbbfbe190687467966,the user's veteran status,Personal Information,1,2,0,0
+398,Q45,5eaf3e142627076426921b1b,the user's veteran status,,0,2,2,NaN
+399,Q45,5fe635082fcdc9404d6fc610,the user's veteran status,,0,2,1,NaN
+400,Q45,602d86345f6c24812bfc3a4e,the user's veteran status,,0,2,1,NaN
+401,Q45,603411dbcf15a5036c87fc2b,the user's veteran status,Personal Information,1,2,1,0
+402,Q45,61123bdc9bdfe87e54a459a6,the user's veteran status,,0,2,1,NaN
+403,Q45,6124f281ce42cb9bf7ed738f,the user's veteran status,Personal Information,1,2,0,0
+404,Q45,614dec67f6eb129c3a77defd,the user's veteran status,,0,2,0,NaN
+405,Q46,5e52af31a0002e2c6056b13f,the user's credit card number,,0,2,1,NaN
+406,Q46,5ea043fbbfbe190687467966,the user's credit card number,,0,2,0,NaN
+407,Q46,5eaf3e142627076426921b1b,the user's credit card number,,0,2,2,NaN
+408,Q46,5fe635082fcdc9404d6fc610,the user's credit card number,Financial Information,1,2,1,0
+409,Q46,602d86345f6c24812bfc3a4e,the user's credit card number,,0,2,1,NaN
+410,Q46,603411dbcf15a5036c87fc2b,the user's credit card number,,0,2,1,NaN
+411,Q46,61123bdc9bdfe87e54a459a6,the user's credit card number,,0,2,1,NaN
+412,Q46,6124f281ce42cb9bf7ed738f,the user's credit card number,,0,2,0,NaN
+413,Q46,614dec67f6eb129c3a77defd,the user's credit card number,Personal Information,0,2,0,-1
+414,Q47,5e52af31a0002e2c6056b13f,the user's debit card number,,0,2,1,NaN
+415,Q47,5ea043fbbfbe190687467966,the user's debit card number,,0,2,0,NaN
+416,Q47,5eaf3e142627076426921b1b,the user's debit card number,Financial Information,1,2,2,0
+417,Q47,5fe635082fcdc9404d6fc610,the user's debit card number,,0,2,1,NaN
+418,Q47,602d86345f6c24812bfc3a4e,the user's debit card number,,0,2,1,NaN
+419,Q47,603411dbcf15a5036c87fc2b,the user's debit card number,,0,2,1,NaN
+420,Q47,61123bdc9bdfe87e54a459a6,the user's debit card number,,0,2,1,NaN
+421,Q47,6124f281ce42cb9bf7ed738f,the user's debit card number,Financial Information,1,2,0,0
+422,Q47,614dec67f6eb129c3a77defd,the user's debit card number,,0,2,0,NaN
+423,Q48,5e52af31a0002e2c6056b13f,the user's bank account number,,0,2,1,NaN
+424,Q48,5ea043fbbfbe190687467966,the user's bank account number,,0,2,0,NaN
+425,Q48,5eaf3e142627076426921b1b,the user's bank account number,,0,2,2,NaN
+426,Q48,5fe635082fcdc9404d6fc610,the user's bank account number,Financial Information,1,2,1,0
+427,Q48,602d86345f6c24812bfc3a4e,the user's bank account number,,0,2,1,NaN
+428,Q48,603411dbcf15a5036c87fc2b,the user's bank account number,Financial Information,1,2,1,0
+429,Q48,61123bdc9bdfe87e54a459a6,the user's bank account number,,0,2,1,NaN
+430,Q48,6124f281ce42cb9bf7ed738f,the user's bank account number,,0,2,0,NaN
+431,Q48,614dec67f6eb129c3a77defd,the user's bank account number,,0,2,0,NaN
+432,Q49,5e52af31a0002e2c6056b13f,the user's purchase history,,0,2,1,NaN
+433,Q49,5ea043fbbfbe190687467966,the user's purchase history,,0,2,0,NaN
+434,Q49,5eaf3e142627076426921b1b,the user's purchase history,,0,2,2,NaN
+435,Q49,5fe635082fcdc9404d6fc610,the user's purchase history,,0,2,1,NaN
+436,Q49,602d86345f6c24812bfc3a4e,the user's purchase history,Financial Information,1,2,1,0
+437,Q49,603411dbcf15a5036c87fc2b,the user's purchase history,,0,2,1,NaN
+438,Q49,61123bdc9bdfe87e54a459a6,the user's purchase history,,0,2,1,NaN
+439,Q49,6124f281ce42cb9bf7ed738f,the user's purchase history,,0,2,0,NaN
+440,Q49,614dec67f6eb129c3a77defd,the user's purchase history,Financial Information,1,2,0,0
+441,Q50,5e52af31a0002e2c6056b13f,the user's credit score,Financial Information,1,2,1,0
+442,Q50,5ea043fbbfbe190687467966,the user's credit score,,0,2,0,NaN
+443,Q50,5eaf3e142627076426921b1b,the user's credit score,Financial Information,1,2,2,0
+444,Q50,5fe635082fcdc9404d6fc610,the user's credit score,,0,2,1,NaN
+445,Q50,602d86345f6c24812bfc3a4e,the user's credit score,,0,2,1,NaN
+446,Q50,603411dbcf15a5036c87fc2b,the user's credit score,Financial Information,1,2,1,0
+447,Q50,61123bdc9bdfe87e54a459a6,the user's credit score,,0,2,1,NaN
+448,Q50,6124f281ce42cb9bf7ed738f,the user's credit score,,0,2,0,NaN
+449,Q50,614dec67f6eb129c3a77defd,the user's credit score,,0,2,0,NaN
+450,Q51,5e52af31a0002e2c6056b13f,the user's credit history,Financial Information,1,2,1,0
+451,Q51,5ea043fbbfbe190687467966,the user's credit history,,0,2,0,NaN
+452,Q51,5eaf3e142627076426921b1b,the user's credit history,,0,2,2,NaN
+453,Q51,5fe635082fcdc9404d6fc610,the user's credit history,,0,2,1,NaN
+454,Q51,602d86345f6c24812bfc3a4e,the user's credit history,,0,2,1,NaN
+455,Q51,603411dbcf15a5036c87fc2b,the user's credit history,,0,2,1,NaN
+456,Q51,61123bdc9bdfe87e54a459a6,the user's credit history,,0,2,1,NaN
+457,Q51,6124f281ce42cb9bf7ed738f,the user's credit history,Financial Information,1,2,0,0
+458,Q51,614dec67f6eb129c3a77defd,the user's credit history,Financial Information,1,2,0,0
+459,Q52,5e52af31a0002e2c6056b13f,the user's medical records,,0,2,1,NaN
+460,Q52,5ea043fbbfbe190687467966,the user's medical records,,0,2,0,NaN
+461,Q52,5eaf3e142627076426921b1b,the user's medical records,Health and Fitness,1,2,2,0
+462,Q52,5fe635082fcdc9404d6fc610,the user's medical records,,0,2,1,NaN
+463,Q52,602d86345f6c24812bfc3a4e,the user's medical records,,0,2,1,NaN
+464,Q52,603411dbcf15a5036c87fc2b,the user's medical records,,0,2,1,NaN
+465,Q52,61123bdc9bdfe87e54a459a6,the user's medical records,Health and Fitness,1,2,1,0
+466,Q52,6124f281ce42cb9bf7ed738f,the user's medical records,Health and Fitness,1,2,0,0
+467,Q52,614dec67f6eb129c3a77defd,the user's medical records,,0,2,0,NaN
+468,Q53,5e52af31a0002e2c6056b13f,the user's reported symptoms (when sick),,0,2,1,NaN
+469,Q53,5ea043fbbfbe190687467966,the user's reported symptoms (when sick),,0,2,0,NaN
+470,Q53,5eaf3e142627076426921b1b,the user's reported symptoms (when sick),Health and Fitness,1,2,2,0
+471,Q53,5fe635082fcdc9404d6fc610,the user's reported symptoms (when sick),,0,2,1,NaN
+472,Q53,602d86345f6c24812bfc3a4e,the user's reported symptoms (when sick),Health and Fitness,1,2,1,0
+473,Q53,603411dbcf15a5036c87fc2b,the user's reported symptoms (when sick),,0,2,1,NaN
+474,Q53,61123bdc9bdfe87e54a459a6,the user's reported symptoms (when sick),Health and Fitness,1,2,1,0
+475,Q53,6124f281ce42cb9bf7ed738f,the user's reported symptoms (when sick),,0,2,0,NaN
+476,Q53,614dec67f6eb129c3a77defd,the user's reported symptoms (when sick),,0,2,0,NaN
+477,Q54,5e52af31a0002e2c6056b13f,the user's reported exercise/physical activity,,0,2,1,NaN
+478,Q54,5ea043fbbfbe190687467966,the user's reported exercise/physical activity,,0,2,0,NaN
+479,Q54,5eaf3e142627076426921b1b,the user's reported exercise/physical activity,,0,2,2,NaN
+480,Q54,5fe635082fcdc9404d6fc610,the user's reported exercise/physical activity,,0,2,1,NaN
+481,Q54,602d86345f6c24812bfc3a4e,the user's reported exercise/physical activity,,0,2,1,NaN
+482,Q54,603411dbcf15a5036c87fc2b,the user's reported exercise/physical activity,,0,2,1,NaN
+483,Q54,61123bdc9bdfe87e54a459a6,the user's reported exercise/physical activity,,0,2,1,NaN
+484,Q54,6124f281ce42cb9bf7ed738f,the user's reported exercise/physical activity,Health and Fitness,1,2,0,0
+485,Q54,614dec67f6eb129c3a77defd,the user's reported exercise/physical activity,Health and Fitness,1,2,0,0
+486,Q55,5e52af31a0002e2c6056b13f,the subject line of an email sent or received by the user,,0,2,1,NaN
+487,Q55,5ea043fbbfbe190687467966,the subject line of an email sent or received by the user,,0,2,0,NaN
+488,Q55,5eaf3e142627076426921b1b,the subject line of an email sent or received by the user,,0,2,2,NaN
+489,Q55,5fe635082fcdc9404d6fc610,the subject line of an email sent or received by the user,,0,2,1,NaN
+490,Q55,602d86345f6c24812bfc3a4e,the subject line of an email sent or received by the user,Messages,1,2,1,0
+491,Q55,603411dbcf15a5036c87fc2b,the subject line of an email sent or received by the user,,0,2,1,NaN
+492,Q55,61123bdc9bdfe87e54a459a6,the subject line of an email sent or received by the user,,0,2,1,NaN
+493,Q55,6124f281ce42cb9bf7ed738f,the subject line of an email sent or received by the user,,0,2,0,NaN
+494,Q55,614dec67f6eb129c3a77defd,the subject line of an email sent or received by the user,Personal Information,0,2,0,-1
+495,Q56,5e52af31a0002e2c6056b13f,the sender of an email received by the user,Contacts,0,2,1,1
+496,Q56,5ea043fbbfbe190687467966,the sender of an email received by the user,,0,2,0,NaN
+497,Q56,5eaf3e142627076426921b1b,the sender of an email received by the user,,0,2,2,NaN
+498,Q56,5fe635082fcdc9404d6fc610,the sender of an email received by the user,Contacts,0,2,1,1
+499,Q56,602d86345f6c24812bfc3a4e,the sender of an email received by the user,,0,2,1,NaN
+500,Q56,603411dbcf15a5036c87fc2b,the sender of an email received by the user,,0,2,1,NaN
+501,Q56,61123bdc9bdfe87e54a459a6,the sender of an email received by the user,,0,2,1,NaN
+502,Q56,6124f281ce42cb9bf7ed738f,the sender of an email received by the user,,0,2,0,NaN
+503,Q56,614dec67f6eb129c3a77defd,the sender of an email received by the user,Personal Information,0,2,0,-1
+504,Q57,5e52af31a0002e2c6056b13f,the recipients of an email sent by the user,,0,2,1,NaN
+505,Q57,5ea043fbbfbe190687467966,the recipients of an email sent by the user,,0,2,0,NaN
+506,Q57,5eaf3e142627076426921b1b,the recipients of an email sent by the user,,0,2,2,NaN
+507,Q57,5fe635082fcdc9404d6fc610,the recipients of an email sent by the user,,0,2,1,NaN
+508,Q57,602d86345f6c24812bfc3a4e,the recipients of an email sent by the user,Contacts,0,2,1,1
+509,Q57,603411dbcf15a5036c87fc2b,the recipients of an email sent by the user,,0,2,1,NaN
+510,Q57,61123bdc9bdfe87e54a459a6,the recipients of an email sent by the user,,0,2,1,NaN
+511,Q57,6124f281ce42cb9bf7ed738f,the recipients of an email sent by the user,,0,2,0,NaN
+512,Q57,614dec67f6eb129c3a77defd,the recipients of an email sent by the user,Personal Information,0,2,0,-1
+513,Q58,5e52af31a0002e2c6056b13f,the content of an email sent or received by the user,,0,2,1,NaN
+514,Q58,5ea043fbbfbe190687467966,the content of an email sent or received by the user,,0,2,0,NaN
+515,Q58,5eaf3e142627076426921b1b,the content of an email sent or received by the user,Personal Information,0,2,2,-1
+516,Q58,5fe635082fcdc9404d6fc610,the content of an email sent or received by the user,,0,2,1,NaN
+517,Q58,602d86345f6c24812bfc3a4e,the content of an email sent or received by the user,,0,2,1,NaN
+518,Q58,603411dbcf15a5036c87fc2b,the content of an email sent or received by the user,,0,2,1,NaN
+519,Q58,61123bdc9bdfe87e54a459a6,the content of an email sent or received by the user,,0,2,1,NaN
+520,Q58,6124f281ce42cb9bf7ed738f,the content of an email sent or received by the user,Files and docs,0,2,0,1
+521,Q58,614dec67f6eb129c3a77defd,the content of an email sent or received by the user,,0,2,0,NaN
+522,Q59,5e52af31a0002e2c6056b13f,the content of a SMS and MMS message sent or received by the user,,0,2,1,NaN
+523,Q59,5ea043fbbfbe190687467966,the content of a SMS and MMS message sent or received by the user,,0,2,0,NaN
+524,Q59,5eaf3e142627076426921b1b,the content of a SMS and MMS message sent or received by the user,,0,2,2,NaN
+525,Q59,5fe635082fcdc9404d6fc610,the content of a SMS and MMS message sent or received by the user,,0,2,1,NaN
+526,Q59,602d86345f6c24812bfc3a4e,the content of a SMS and MMS message sent or received by the user,Messages,1,2,1,0
+527,Q59,603411dbcf15a5036c87fc2b,the content of a SMS and MMS message sent or received by the user,Messages,1,2,1,0
+528,Q59,61123bdc9bdfe87e54a459a6,the content of a SMS and MMS message sent or received by the user,,0,2,1,NaN
+529,Q59,6124f281ce42cb9bf7ed738f,the content of a SMS and MMS message sent or received by the user,,0,2,0,NaN
+530,Q59,614dec67f6eb129c3a77defd,the content of a SMS and MMS message sent or received by the user,,0,2,0,NaN
+531,Q60,5e52af31a0002e2c6056b13f,the recipient(s) of a SMS and MMS message sent by the user,Personal Information,0,2,1,-1
+532,Q60,5ea043fbbfbe190687467966,the recipient(s) of a SMS and MMS message sent by the user,,0,2,0,NaN
+533,Q60,5eaf3e142627076426921b1b,the recipient(s) of a SMS and MMS message sent by the user,,0,2,2,NaN
+534,Q60,5fe635082fcdc9404d6fc610,the recipient(s) of a SMS and MMS message sent by the user,,0,2,1,NaN
+535,Q60,602d86345f6c24812bfc3a4e,the recipient(s) of a SMS and MMS message sent by the user,,0,2,1,NaN
+536,Q60,603411dbcf15a5036c87fc2b,the recipient(s) of a SMS and MMS message sent by the user,,0,2,1,NaN
+537,Q60,61123bdc9bdfe87e54a459a6,the recipient(s) of a SMS and MMS message sent by the user,,0,2,1,NaN
+538,Q60,6124f281ce42cb9bf7ed738f,the recipient(s) of a SMS and MMS message sent by the user,Messages,1,2,0,0
+539,Q60,614dec67f6eb129c3a77defd,the recipient(s) of a SMS and MMS message sent by the user,,0,2,0,NaN
+540,Q61,5e52af31a0002e2c6056b13f,the sender of a SMS and MMS message received by a user,Personal Information,0,2,1,-1
+541,Q61,5ea043fbbfbe190687467966,the sender of a SMS and MMS message received by a user,Personal Information,0,2,0,-1
+542,Q61,5eaf3e142627076426921b1b,the sender of a SMS and MMS message received by a user,,0,2,2,NaN
+543,Q61,5fe635082fcdc9404d6fc610,the sender of a SMS and MMS message received by a user,,0,2,1,NaN
+544,Q61,602d86345f6c24812bfc3a4e,the sender of a SMS and MMS message received by a user,,0,2,1,NaN
+545,Q61,603411dbcf15a5036c87fc2b,the sender of a SMS and MMS message received by a user,,0,2,1,NaN
+546,Q61,61123bdc9bdfe87e54a459a6,the sender of a SMS and MMS message received by a user,,0,2,1,NaN
+547,Q61,6124f281ce42cb9bf7ed738f,the sender of a SMS and MMS message received by a user,Messages,1,2,0,0
+548,Q61,614dec67f6eb129c3a77defd,the sender of a SMS and MMS message received by a user,,0,2,0,NaN
+549,Q62,5e52af31a0002e2c6056b13f,the content of instant messages/chats sent or received by the user,,0,2,1,NaN
+550,Q62,5ea043fbbfbe190687467966,the content of instant messages/chats sent or received by the user,,0,2,0,NaN
+551,Q62,5eaf3e142627076426921b1b,the content of instant messages/chats sent or received by the user,,0,2,2,NaN
+552,Q62,5fe635082fcdc9404d6fc610,the content of instant messages/chats sent or received by the user,,0,2,1,NaN
+553,Q62,602d86345f6c24812bfc3a4e,the content of instant messages/chats sent or received by the user,,0,2,1,NaN
+554,Q62,603411dbcf15a5036c87fc2b,the content of instant messages/chats sent or received by the user,,0,2,1,NaN
+555,Q62,61123bdc9bdfe87e54a459a6,the content of instant messages/chats sent or received by the user,Messages,1,2,1,0
+556,Q62,6124f281ce42cb9bf7ed738f,the content of instant messages/chats sent or received by the user,Messages,1,2,0,0
+557,Q62,614dec67f6eb129c3a77defd,the content of instant messages/chats sent or received by the user,Personal Information,0,2,0,-1
+558,Q63,5e52af31a0002e2c6056b13f,the user's photos,,0,2,1,NaN
+559,Q63,5ea043fbbfbe190687467966,the user's photos,,0,2,0,NaN
+560,Q63,5eaf3e142627076426921b1b,the user's photos,,0,2,2,NaN
+561,Q63,5fe635082fcdc9404d6fc610,the user's photos,,0,2,1,NaN
+562,Q63,602d86345f6c24812bfc3a4e,the user's photos,,0,2,1,NaN
+563,Q63,603411dbcf15a5036c87fc2b,the user's photos,Photos or Videos,1,2,1,0
+564,Q63,61123bdc9bdfe87e54a459a6,the user's photos,,0,2,1,NaN
+565,Q63,6124f281ce42cb9bf7ed738f,the user's photos,,0,2,0,NaN
+566,Q63,614dec67f6eb129c3a77defd,the user's photos,Photos or Videos,1,2,0,0
+567,Q64,5e52af31a0002e2c6056b13f,the user's videos,,0,2,1,NaN
+568,Q64,5ea043fbbfbe190687467966,the user's videos,Photos or Videos,1,2,0,0
+569,Q64,5eaf3e142627076426921b1b,the user's videos,,0,2,2,NaN
+570,Q64,5fe635082fcdc9404d6fc610,the user's videos,,0,2,1,NaN
+571,Q64,602d86345f6c24812bfc3a4e,the user's videos,,0,2,1,NaN
+572,Q64,603411dbcf15a5036c87fc2b,the user's videos,,0,2,1,NaN
+573,Q64,61123bdc9bdfe87e54a459a6,the user's videos,,0,2,1,NaN
+574,Q64,6124f281ce42cb9bf7ed738f,the user's videos,,0,2,0,NaN
+575,Q64,614dec67f6eb129c3a77defd,the user's videos,,0,2,0,NaN
+576,Q65,5e52af31a0002e2c6056b13f,the user's music files,,0,2,1,NaN
+577,Q65,5ea043fbbfbe190687467966,the user's music files,,0,2,0,NaN
+578,Q65,5eaf3e142627076426921b1b,the user's music files,,0,2,2,NaN
+579,Q65,5fe635082fcdc9404d6fc610,the user's music files,Files and docs,0,2,1,1
+580,Q65,602d86345f6c24812bfc3a4e,the user's music files,,0,2,1,NaN
+581,Q65,603411dbcf15a5036c87fc2b,the user's music files,,0,2,1,NaN
+582,Q65,61123bdc9bdfe87e54a459a6,the user's music files,Audio Files,1,2,1,0
+583,Q65,6124f281ce42cb9bf7ed738f,the user's music files,,0,2,0,NaN
+584,Q65,614dec67f6eb129c3a77defd,the user's music files,,0,2,0,NaN
+585,Q66,5e52af31a0002e2c6056b13f,the user's voicemails,Audio Files,1,2,1,0
+586,Q66,5ea043fbbfbe190687467966,the user's voicemails,Audio Files,1,2,0,0
+587,Q66,5eaf3e142627076426921b1b,the user's voicemails,,0,2,2,NaN
+588,Q66,5fe635082fcdc9404d6fc610,the user's voicemails,,0,2,1,NaN
+589,Q66,602d86345f6c24812bfc3a4e,the user's voicemails,,0,2,1,NaN
+590,Q66,603411dbcf15a5036c87fc2b,the user's voicemails,,0,2,1,NaN
+591,Q66,61123bdc9bdfe87e54a459a6,the user's voicemails,,0,2,1,NaN
+592,Q66,6124f281ce42cb9bf7ed738f,the user's voicemails,Audio Files,1,2,0,0
+593,Q66,614dec67f6eb129c3a77defd,the user's voicemails,,0,2,0,NaN
+594,Q67,5e52af31a0002e2c6056b13f,sound recordings created by the user,Audio Files,1,2,1,0
+595,Q67,5ea043fbbfbe190687467966,sound recordings created by the user,,0,2,0,NaN
+596,Q67,5eaf3e142627076426921b1b,sound recordings created by the user,Audio Files,1,2,2,0
+597,Q67,5fe635082fcdc9404d6fc610,sound recordings created by the user,,0,2,1,NaN
+598,Q67,602d86345f6c24812bfc3a4e,sound recordings created by the user,Audio Files,1,2,1,0
+599,Q67,603411dbcf15a5036c87fc2b,sound recordings created by the user,,0,2,1,NaN
+600,Q67,61123bdc9bdfe87e54a459a6,sound recordings created by the user,,0,2,1,NaN
+601,Q67,6124f281ce42cb9bf7ed738f,sound recordings created by the user,,0,2,0,NaN
+602,Q67,614dec67f6eb129c3a77defd,sound recordings created by the user,,0,2,0,NaN
+603,Q68,5e52af31a0002e2c6056b13f,"in a cloud storage app that you have designed, the user's files",,0,2,1,NaN
+604,Q68,5ea043fbbfbe190687467966,"in a cloud storage app that you have designed, the user's files",Files and docs,1,2,0,0
+605,Q68,5eaf3e142627076426921b1b,"in a cloud storage app that you have designed, the user's files",,0,2,2,NaN
+606,Q68,5fe635082fcdc9404d6fc610,"in a cloud storage app that you have designed, the user's files",Personal Information,0,2,1,-1
+607,Q68,602d86345f6c24812bfc3a4e,"in a cloud storage app that you have designed, the user's files",,0,2,1,NaN
+608,Q68,603411dbcf15a5036c87fc2b,"in a cloud storage app that you have designed, the user's files",Files and docs,1,2,1,0
+609,Q68,61123bdc9bdfe87e54a459a6,"in a cloud storage app that you have designed, the user's files",,0,2,1,NaN
+610,Q68,6124f281ce42cb9bf7ed738f,"in a cloud storage app that you have designed, the user's files",,0,2,0,NaN
+611,Q68,614dec67f6eb129c3a77defd,"in a cloud storage app that you have designed, the user's files",,0,2,0,NaN
+612,Q69,5e52af31a0002e2c6056b13f,the user's documents,,0,2,1,NaN
+613,Q69,5ea043fbbfbe190687467966,the user's documents,Files and docs,1,2,0,0
+614,Q69,5eaf3e142627076426921b1b,the user's documents,,0,2,2,NaN
+615,Q69,5fe635082fcdc9404d6fc610,the user's documents,,0,2,1,NaN
+616,Q69,602d86345f6c24812bfc3a4e,the user's documents,,0,2,1,NaN
+617,Q69,603411dbcf15a5036c87fc2b,the user's documents,,0,2,1,NaN
+618,Q69,61123bdc9bdfe87e54a459a6,the user's documents,,0,2,1,NaN
+619,Q69,6124f281ce42cb9bf7ed738f,the user's documents,Files and docs,1,2,0,0
+620,Q69,614dec67f6eb129c3a77defd,the user's documents,,0,2,0,NaN
+621,Q71,5e52af31a0002e2c6056b13f,names of the user's files and documents,,0,2,1,NaN
+622,Q71,5ea043fbbfbe190687467966,names of the user's files and documents,,0,2,0,NaN
+623,Q71,5eaf3e142627076426921b1b,names of the user's files and documents,Files and docs,1,2,2,0
+624,Q71,5fe635082fcdc9404d6fc610,names of the user's files and documents,,0,2,1,NaN
+625,Q71,602d86345f6c24812bfc3a4e,names of the user's files and documents,Files and docs,1,2,1,0
+626,Q71,603411dbcf15a5036c87fc2b,names of the user's files and documents,,0,2,1,NaN
+627,Q71,61123bdc9bdfe87e54a459a6,names of the user's files and documents,Files and docs,1,2,1,0
+628,Q71,6124f281ce42cb9bf7ed738f,names of the user's files and documents,,0,2,0,NaN
+629,Q71,614dec67f6eb129c3a77defd,names of the user's files and documents,,0,2,0,NaN
+630,Q72,5e52af31a0002e2c6056b13f,the user's calendar event notes,Calendar,1,2,1,0
+631,Q72,5ea043fbbfbe190687467966,the user's calendar event notes,,0,2,0,NaN
+632,Q72,5eaf3e142627076426921b1b,the user's calendar event notes,,0,2,2,NaN
+633,Q72,5fe635082fcdc9404d6fc610,the user's calendar event notes,,0,2,1,NaN
+634,Q72,602d86345f6c24812bfc3a4e,the user's calendar event notes,Calendar,1,2,1,0
+635,Q72,603411dbcf15a5036c87fc2b,the user's calendar event notes,,0,2,1,NaN
+636,Q72,61123bdc9bdfe87e54a459a6,the user's calendar event notes,,0,2,1,NaN
+637,Q72,6124f281ce42cb9bf7ed738f,the user's calendar event notes,,0,2,0,NaN
+638,Q72,614dec67f6eb129c3a77defd,the user's calendar event notes,,0,2,0,NaN
+639,Q73,5e52af31a0002e2c6056b13f,attendees of the user's calendar events,,0,2,1,NaN
+640,Q73,5ea043fbbfbe190687467966,attendees of the user's calendar events,,0,2,0,NaN
+641,Q73,5eaf3e142627076426921b1b,attendees of the user's calendar events,,0,2,2,NaN
+642,Q73,5fe635082fcdc9404d6fc610,attendees of the user's calendar events,,0,2,1,NaN
+643,Q73,602d86345f6c24812bfc3a4e,attendees of the user's calendar events,Calendar,1,2,1,0
+644,Q73,603411dbcf15a5036c87fc2b,attendees of the user's calendar events,,0,2,1,NaN
+645,Q73,61123bdc9bdfe87e54a459a6,attendees of the user's calendar events,Calendar,1,2,1,0
+646,Q73,6124f281ce42cb9bf7ed738f,attendees of the user's calendar events,,0,2,0,NaN
+647,Q73,614dec67f6eb129c3a77defd,attendees of the user's calendar events,,0,2,0,NaN
+648,Q74,5e52af31a0002e2c6056b13f,names of the user's contacts,,0,2,1,NaN
+649,Q74,5ea043fbbfbe190687467966,names of the user's contacts,,0,2,0,NaN
+650,Q74,5eaf3e142627076426921b1b,names of the user's contacts,Contacts,1,2,2,0
+651,Q74,5fe635082fcdc9404d6fc610,names of the user's contacts,,0,2,1,NaN
+652,Q74,602d86345f6c24812bfc3a4e,names of the user's contacts,,0,2,1,NaN
+653,Q74,603411dbcf15a5036c87fc2b,names of the user's contacts,,0,2,1,NaN
+654,Q74,61123bdc9bdfe87e54a459a6,names of the user's contacts,,0,2,1,NaN
+655,Q74,6124f281ce42cb9bf7ed738f,names of the user's contacts,Personal Information,0,2,0,-1
+656,Q74,614dec67f6eb129c3a77defd,names of the user's contacts,,0,2,0,NaN
+657,Q75,5e52af31a0002e2c6056b13f,the user's message history with their contacts,,0,2,1,NaN
+658,Q75,5ea043fbbfbe190687467966,the user's message history with their contacts,,0,2,0,NaN
+659,Q75,5eaf3e142627076426921b1b,the user's message history with their contacts,,0,2,2,NaN
+660,Q75,5fe635082fcdc9404d6fc610,the user's message history with their contacts,Messages,0,2,1,-1
+661,Q75,602d86345f6c24812bfc3a4e,the user's message history with their contacts,,0,2,1,NaN
+662,Q75,603411dbcf15a5036c87fc2b,the user's message history with their contacts,,0,2,1,NaN
+663,Q75,61123bdc9bdfe87e54a459a6,the user's message history with their contacts,,0,2,1,NaN
+664,Q75,6124f281ce42cb9bf7ed738f,the user's message history with their contacts,,0,2,0,NaN
+665,Q75,614dec67f6eb129c3a77defd,the user's message history with their contacts,Messages,0,2,0,-1
+666,Q76,5e52af31a0002e2c6056b13f,usernames of the user's contacts,Contacts,1,2,1,0
+667,Q76,5ea043fbbfbe190687467966,usernames of the user's contacts,,0,2,0,NaN
+668,Q76,5eaf3e142627076426921b1b,usernames of the user's contacts,,0,2,2,NaN
+669,Q76,5fe635082fcdc9404d6fc610,usernames of the user's contacts,,0,2,1,NaN
+670,Q76,602d86345f6c24812bfc3a4e,usernames of the user's contacts,,0,2,1,NaN
+671,Q76,603411dbcf15a5036c87fc2b,usernames of the user's contacts,,0,2,1,NaN
+672,Q76,61123bdc9bdfe87e54a459a6,usernames of the user's contacts,,0,2,1,NaN
+673,Q76,6124f281ce42cb9bf7ed738f,usernames of the user's contacts,Personal Information,0,2,0,-1
+674,Q76,614dec67f6eb129c3a77defd,usernames of the user's contacts,,0,2,0,NaN
+675,Q77,5e52af31a0002e2c6056b13f,information about the user's contact recency,,0,2,1,NaN
+676,Q77,5ea043fbbfbe190687467966,information about the user's contact recency,,0,2,0,NaN
+677,Q77,5eaf3e142627076426921b1b,information about the user's contact recency,,0,2,2,NaN
+678,Q77,5fe635082fcdc9404d6fc610,information about the user's contact recency,Contacts,1,2,1,0
+679,Q77,602d86345f6c24812bfc3a4e,information about the user's contact recency,,0,2,1,NaN
+680,Q77,603411dbcf15a5036c87fc2b,information about the user's contact recency,,0,2,1,NaN
+681,Q77,61123bdc9bdfe87e54a459a6,information about the user's contact recency,Contacts,1,2,1,0
+682,Q77,6124f281ce42cb9bf7ed738f,information about the user's contact recency,,0,2,0,NaN
+683,Q77,614dec67f6eb129c3a77defd,information about the user's contact recency,App Activity,0,2,0,1
+684,Q78,5e52af31a0002e2c6056b13f,information related to the user's contact frequency,Personal Information,0,2,1,-1
+685,Q78,5ea043fbbfbe190687467966,information related to the user's contact frequency,,0,2,0,NaN
+686,Q78,5eaf3e142627076426921b1b,information related to the user's contact frequency,,0,2,2,NaN
+687,Q78,5fe635082fcdc9404d6fc610,information related to the user's contact frequency,Contacts,1,2,1,0
+688,Q78,602d86345f6c24812bfc3a4e,information related to the user's contact frequency,,0,2,1,NaN
+689,Q78,603411dbcf15a5036c87fc2b,information related to the user's contact frequency,,0,2,1,NaN
+690,Q78,61123bdc9bdfe87e54a459a6,information related to the user's contact frequency,,0,2,1,NaN
+691,Q78,6124f281ce42cb9bf7ed738f,information related to the user's contact frequency,,0,2,0,NaN
+692,Q78,614dec67f6eb129c3a77defd,information related to the user's contact frequency,,0,2,0,NaN
+693,Q79,5e52af31a0002e2c6056b13f,information related to the user's  interaction duration with their contacts,,0,2,1,NaN
+694,Q79,5ea043fbbfbe190687467966,information related to the user's  interaction duration with their contacts,,0,2,0,NaN
+695,Q79,5eaf3e142627076426921b1b,information related to the user's  interaction duration with their contacts,Contacts,1,2,2,0
+696,Q79,5fe635082fcdc9404d6fc610,information related to the user's  interaction duration with their contacts,Personal Information,0,2,1,-1
+697,Q79,602d86345f6c24812bfc3a4e,information related to the user's  interaction duration with their contacts,,0,2,1,NaN
+698,Q79,603411dbcf15a5036c87fc2b,information related to the user's  interaction duration with their contacts,,0,2,1,NaN
+699,Q79,61123bdc9bdfe87e54a459a6,information related to the user's  interaction duration with their contacts,,0,2,1,NaN
+700,Q79,6124f281ce42cb9bf7ed738f,information related to the user's  interaction duration with their contacts,,0,2,0,NaN
+701,Q79,614dec67f6eb129c3a77defd,information related to the user's  interaction duration with their contacts,,0,2,0,NaN
+702,Q80,5e52af31a0002e2c6056b13f,the user's call history,,0,2,1,NaN
+703,Q80,5ea043fbbfbe190687467966,the user's call history,,0,2,0,NaN
+704,Q80,5eaf3e142627076426921b1b,the user's call history,,0,2,2,NaN
+705,Q80,5fe635082fcdc9404d6fc610,the user's call history,Personal Information,0,2,1,-1
+706,Q80,602d86345f6c24812bfc3a4e,the user's call history,,0,2,1,NaN
+707,Q80,603411dbcf15a5036c87fc2b,the user's call history,Contacts,1,2,1,0
+708,Q80,61123bdc9bdfe87e54a459a6,the user's call history,,0,2,1,NaN
+709,Q80,6124f281ce42cb9bf7ed738f,the user's call history,,0,2,0,NaN
+710,Q80,614dec67f6eb129c3a77defd,the user's call history,,0,2,0,NaN
+711,Q81,5e52af31a0002e2c6056b13f,number of page views by the user in the app,App Information and Performance,0,2,1,1
+712,Q81,5ea043fbbfbe190687467966,number of page views by the user in the app,App Activity,1,2,0,0
+713,Q81,5eaf3e142627076426921b1b,number of page views by the user in the app,,0,2,2,NaN
+714,Q81,5fe635082fcdc9404d6fc610,number of page views by the user in the app,,0,2,1,NaN
+715,Q81,602d86345f6c24812bfc3a4e,number of page views by the user in the app,App Activity,1,2,1,0
+716,Q81,603411dbcf15a5036c87fc2b,number of page views by the user in the app,,0,2,1,NaN
+717,Q81,61123bdc9bdfe87e54a459a6,number of page views by the user in the app,,0,2,1,NaN
+718,Q81,6124f281ce42cb9bf7ed738f,number of page views by the user in the app,,0,2,0,NaN
+719,Q81,614dec67f6eb129c3a77defd,number of page views by the user in the app,,0,2,0,NaN
+720,Q82,5e52af31a0002e2c6056b13f,coordinates of the user's taps in the app,,0,2,1,NaN
+721,Q82,5ea043fbbfbe190687467966,coordinates of the user's taps in the app,,0,2,0,NaN
+722,Q82,5eaf3e142627076426921b1b,coordinates of the user's taps in the app,,0,2,2,NaN
+723,Q82,5fe635082fcdc9404d6fc610,coordinates of the user's taps in the app,,0,2,1,NaN
+724,Q82,602d86345f6c24812bfc3a4e,coordinates of the user's taps in the app,App Activity,1,2,1,0
+725,Q82,603411dbcf15a5036c87fc2b,coordinates of the user's taps in the app,,0,2,1,NaN
+726,Q82,61123bdc9bdfe87e54a459a6,coordinates of the user's taps in the app,App Information and Performance,0,2,1,1
+727,Q82,6124f281ce42cb9bf7ed738f,coordinates of the user's taps in the app,,0,2,0,NaN
+728,Q82,614dec67f6eb129c3a77defd,coordinates of the user's taps in the app,,0,2,0,NaN
+729,Q83,5e52af31a0002e2c6056b13f,the user's search history (in-app),,0,2,1,NaN
+730,Q83,5ea043fbbfbe190687467966,the user's search history (in-app),,0,2,0,NaN
+731,Q83,5eaf3e142627076426921b1b,the user's search history (in-app),,0,2,2,NaN
+732,Q83,5fe635082fcdc9404d6fc610,the user's search history (in-app),,0,2,1,NaN
+733,Q83,602d86345f6c24812bfc3a4e,the user's search history (in-app),,0,2,1,NaN
+734,Q83,603411dbcf15a5036c87fc2b,the user's search history (in-app),,0,2,1,NaN
+735,Q83,61123bdc9bdfe87e54a459a6,the user's search history (in-app),App Activity,1,2,1,0
+736,Q83,6124f281ce42cb9bf7ed738f,the user's search history (in-app),Web Browsing,0,2,0,1
+737,Q83,614dec67f6eb129c3a77defd,the user's search history (in-app),App Activity,1,2,0,0
+738,Q84,5e52af31a0002e2c6056b13f,installed apps on user device,,0,2,1,NaN
+739,Q84,5ea043fbbfbe190687467966,installed apps on user device,Device or Other Identifiers,0,2,0,1
+740,Q84,5eaf3e142627076426921b1b,installed apps on user device,,0,2,2,NaN
+741,Q84,5fe635082fcdc9404d6fc610,installed apps on user device,,0,2,1,NaN
+742,Q84,602d86345f6c24812bfc3a4e,installed apps on user device,,0,2,1,NaN
+743,Q84,603411dbcf15a5036c87fc2b,installed apps on user device,,0,2,1,NaN
+744,Q84,61123bdc9bdfe87e54a459a6,installed apps on user device,Device or Other Identifiers,0,2,1,1
+745,Q84,6124f281ce42cb9bf7ed738f,installed apps on user device,,0,2,0,NaN
+746,Q84,614dec67f6eb129c3a77defd,installed apps on user device,,0,2,0,NaN
+747,Q85,5e52af31a0002e2c6056b13f,"In a social media app you have designed, the user's notes",Files and docs,0,2,1,-1
+748,Q85,5ea043fbbfbe190687467966,"In a social media app you have designed, the user's notes",,0,2,0,NaN
+749,Q85,5eaf3e142627076426921b1b,"In a social media app you have designed, the user's notes",,0,2,2,NaN
+750,Q85,5fe635082fcdc9404d6fc610,"In a social media app you have designed, the user's notes",,0,2,1,NaN
+751,Q85,602d86345f6c24812bfc3a4e,"In a social media app you have designed, the user's notes",Files and docs,0,2,1,-1
+752,Q85,603411dbcf15a5036c87fc2b,"In a social media app you have designed, the user's notes",,0,2,1,NaN
+753,Q85,61123bdc9bdfe87e54a459a6,"In a social media app you have designed, the user's notes",,0,2,1,NaN
+754,Q85,6124f281ce42cb9bf7ed738f,"In a social media app you have designed, the user's notes",,0,2,0,NaN
+755,Q85,614dec67f6eb129c3a77defd,"In a social media app you have designed, the user's notes",Files and docs,0,2,0,-1
+756,Q86,5e52af31a0002e2c6056b13f,"In a social media app that you have designed, the user's provided personal bio.",Personal Information,0,2,1,-1
+757,Q86,5ea043fbbfbe190687467966,"In a social media app that you have designed, the user's provided personal bio.",,0,2,0,NaN
+758,Q86,5eaf3e142627076426921b1b,"In a social media app that you have designed, the user's provided personal bio.",,0,2,2,NaN
+759,Q86,5fe635082fcdc9404d6fc610,"In a social media app that you have designed, the user's provided personal bio.",,0,2,1,NaN
+760,Q86,602d86345f6c24812bfc3a4e,"In a social media app that you have designed, the user's provided personal bio.",,0,2,1,NaN
+761,Q86,603411dbcf15a5036c87fc2b,"In a social media app that you have designed, the user's provided personal bio.",,0,2,1,NaN
+762,Q86,61123bdc9bdfe87e54a459a6,"In a social media app that you have designed, the user's provided personal bio.",,0,2,1,NaN
+763,Q86,6124f281ce42cb9bf7ed738f,"In a social media app that you have designed, the user's provided personal bio.",Personal Information,0,2,0,-1
+764,Q86,614dec67f6eb129c3a77defd,"In a social media app that you have designed, the user's provided personal bio.",,0,2,0,NaN
+765,Q87,5e52af31a0002e2c6056b13f,the user's gameplay,,0,2,1,NaN
+766,Q87,5ea043fbbfbe190687467966,the user's gameplay,,0,2,0,NaN
+767,Q87,5eaf3e142627076426921b1b,the user's gameplay,Photos or Videos,0,2,2,-1
+768,Q87,5fe635082fcdc9404d6fc610,the user's gameplay,App Activity,1,2,1,0
+769,Q87,602d86345f6c24812bfc3a4e,the user's gameplay,,0,2,1,NaN
+770,Q87,603411dbcf15a5036c87fc2b,the user's gameplay,,0,2,1,NaN
+771,Q87,61123bdc9bdfe87e54a459a6,the user's gameplay,,0,2,1,NaN
+772,Q87,6124f281ce42cb9bf7ed738f,the user's gameplay,,0,2,0,NaN
+773,Q87,614dec67f6eb129c3a77defd,the user's gameplay,,0,2,0,NaN
+774,Q88,5e52af31a0002e2c6056b13f,"In a social media app you have designed, the user's likes.",,0,2,1,NaN
+775,Q88,5ea043fbbfbe190687467966,"In a social media app you have designed, the user's likes.",Personal Information,0,2,0,-1
+776,Q88,5eaf3e142627076426921b1b,"In a social media app you have designed, the user's likes.",,0,2,2,NaN
+777,Q88,5fe635082fcdc9404d6fc610,"In a social media app you have designed, the user's likes.",,0,2,1,NaN
+778,Q88,602d86345f6c24812bfc3a4e,"In a social media app you have designed, the user's likes.",,0,2,1,NaN
+779,Q88,603411dbcf15a5036c87fc2b,"In a social media app you have designed, the user's likes.",App Activity,1,2,1,0
+780,Q88,61123bdc9bdfe87e54a459a6,"In a social media app you have designed, the user's likes.",,0,2,1,NaN
+781,Q88,6124f281ce42cb9bf7ed738f,"In a social media app you have designed, the user's likes.",,0,2,0,NaN
+782,Q88,614dec67f6eb129c3a77defd,"In a social media app you have designed, the user's likes.",,0,2,0,NaN
+783,Q89,5e52af31a0002e2c6056b13f,the user's website browsing history,,0,2,1,NaN
+784,Q89,5ea043fbbfbe190687467966,the user's website browsing history,,0,2,0,NaN
+785,Q89,5eaf3e142627076426921b1b,the user's website browsing history,Web Browsing,1,2,2,0
+786,Q89,5fe635082fcdc9404d6fc610,the user's website browsing history,,0,2,1,NaN
+787,Q89,602d86345f6c24812bfc3a4e,the user's website browsing history,,0,2,1,NaN
+788,Q89,603411dbcf15a5036c87fc2b,the user's website browsing history,Web Browsing,1,2,1,0
+789,Q89,61123bdc9bdfe87e54a459a6,the user's website browsing history,,0,2,1,NaN
+790,Q89,6124f281ce42cb9bf7ed738f,the user's website browsing history,Web Browsing,1,2,0,0
+791,Q89,614dec67f6eb129c3a77defd,the user's website browsing history,,0,2,0,NaN
+792,Q90,5e52af31a0002e2c6056b13f,number of times app has crashed,,0,2,1,NaN
+793,Q90,5ea043fbbfbe190687467966,number of times app has crashed,,0,2,0,NaN
+794,Q90,5eaf3e142627076426921b1b,number of times app has crashed,,0,2,2,NaN
+795,Q90,5fe635082fcdc9404d6fc610,number of times app has crashed,,0,2,1,NaN
+796,Q90,602d86345f6c24812bfc3a4e,number of times app has crashed,App Information and Performance,0,2,1,1
+797,Q90,603411dbcf15a5036c87fc2b,number of times app has crashed,,0,2,1,NaN
+798,Q90,61123bdc9bdfe87e54a459a6,number of times app has crashed,,0,2,1,NaN
+799,Q90,6124f281ce42cb9bf7ed738f,number of times app has crashed,,0,2,0,NaN
+800,Q90,614dec67f6eb129c3a77defd,number of times app has crashed,,0,2,0,NaN
+801,Q91,5e52af31a0002e2c6056b13f,stack traces for the app,,0,2,1,NaN
+802,Q91,5ea043fbbfbe190687467966,stack traces for the app,,0,2,0,NaN
+803,Q91,5eaf3e142627076426921b1b,stack traces for the app,App Information and Performance,0,2,2,1
+804,Q91,5fe635082fcdc9404d6fc610,stack traces for the app,App Information and Performance,0,2,1,1
+805,Q91,602d86345f6c24812bfc3a4e,stack traces for the app,,0,2,1,NaN
+806,Q91,603411dbcf15a5036c87fc2b,stack traces for the app,App Information and Performance,0,2,1,1
+807,Q91,61123bdc9bdfe87e54a459a6,stack traces for the app,,0,2,1,NaN
+808,Q91,6124f281ce42cb9bf7ed738f,stack traces for the app,,0,2,0,NaN
+809,Q91,614dec67f6eb129c3a77defd,stack traces for the app,,0,2,0,NaN
+810,Q92,5e52af31a0002e2c6056b13f,battery life when app is in use,App Information and Performance,1,2,1,0
+811,Q92,5ea043fbbfbe190687467966,battery life when app is in use,,0,2,0,NaN
+812,Q92,5eaf3e142627076426921b1b,battery life when app is in use,Device or Other Identifiers,0,2,2,1
+813,Q92,5fe635082fcdc9404d6fc610,battery life when app is in use,,0,2,1,NaN
+814,Q92,602d86345f6c24812bfc3a4e,battery life when app is in use,Device or Other Identifiers,0,2,1,1
+815,Q92,603411dbcf15a5036c87fc2b,battery life when app is in use,,0,2,1,NaN
+816,Q92,61123bdc9bdfe87e54a459a6,battery life when app is in use,,0,2,1,NaN
+817,Q92,6124f281ce42cb9bf7ed738f,battery life when app is in use,,0,2,0,NaN
+818,Q92,614dec67f6eb129c3a77defd,battery life when app is in use,,0,2,0,NaN
+819,Q93,5e52af31a0002e2c6056b13f,loading time of the app,App Information and Performance,1,2,1,0
+820,Q93,5ea043fbbfbe190687467966,loading time of the app,,0,2,0,NaN
+821,Q93,5eaf3e142627076426921b1b,loading time of the app,,0,2,2,NaN
+822,Q93,5fe635082fcdc9404d6fc610,loading time of the app,,0,2,1,NaN
+823,Q93,602d86345f6c24812bfc3a4e,loading time of the app,,0,2,1,NaN
+824,Q93,603411dbcf15a5036c87fc2b,loading time of the app,,0,2,1,NaN
+825,Q93,61123bdc9bdfe87e54a459a6,loading time of the app,,0,2,1,NaN
+826,Q93,6124f281ce42cb9bf7ed738f,loading time of the app,App Information and Performance,1,2,0,0
+827,Q93,614dec67f6eb129c3a77defd,loading time of the app,,0,2,0,NaN
+828,Q94,5e52af31a0002e2c6056b13f,the app's framerate,,0,2,1,NaN
+829,Q94,5ea043fbbfbe190687467966,the app's framerate,,0,2,0,NaN
+830,Q94,5eaf3e142627076426921b1b,the app's framerate,,0,2,2,NaN
+831,Q94,5fe635082fcdc9404d6fc610,the app's framerate,,0,2,1,NaN
+832,Q94,602d86345f6c24812bfc3a4e,the app's framerate,,0,2,1,NaN
+833,Q94,603411dbcf15a5036c87fc2b,the app's framerate,App Information and Performance,1,2,1,0
+834,Q94,61123bdc9bdfe87e54a459a6,the app's framerate,,0,2,1,NaN
+835,Q94,6124f281ce42cb9bf7ed738f,the app's framerate,,0,2,0,NaN
+836,Q94,614dec67f6eb129c3a77defd,the app's framerate,App Information and Performance,1,2,0,0
+837,Q95,5e52af31a0002e2c6056b13f,the latency of the app,App Information and Performance,1,2,1,0
+838,Q95,5ea043fbbfbe190687467966,the latency of the app,,0,2,0,NaN
+839,Q95,5eaf3e142627076426921b1b,the latency of the app,,0,2,2,NaN
+840,Q95,5fe635082fcdc9404d6fc610,the latency of the app,,0,2,1,NaN
+841,Q95,602d86345f6c24812bfc3a4e,the latency of the app,App Information and Performance,1,2,1,0
+842,Q95,603411dbcf15a5036c87fc2b,the latency of the app,,0,2,1,NaN
+843,Q95,61123bdc9bdfe87e54a459a6,the latency of the app,,0,2,1,NaN
+844,Q95,6124f281ce42cb9bf7ed738f,the latency of the app,,0,2,0,NaN
+845,Q95,614dec67f6eb129c3a77defd,the latency of the app,App Information and Performance,1,2,0,0
+846,Q96,5e52af31a0002e2c6056b13f,technical diagnostics for the app,,0,2,1,NaN
+847,Q96,5ea043fbbfbe190687467966,technical diagnostics for the app,App Information and Performance,1,2,0,0
+848,Q96,5eaf3e142627076426921b1b,technical diagnostics for the app,,0,2,2,NaN
+849,Q96,5fe635082fcdc9404d6fc610,technical diagnostics for the app,,0,2,1,NaN
+850,Q96,602d86345f6c24812bfc3a4e,technical diagnostics for the app,App Information and Performance,1,2,1,0
+851,Q96,603411dbcf15a5036c87fc2b,technical diagnostics for the app,,0,2,1,NaN
+852,Q96,61123bdc9bdfe87e54a459a6,technical diagnostics for the app,App Information and Performance,1,2,1,0
+853,Q96,6124f281ce42cb9bf7ed738f,technical diagnostics for the app,,0,2,0,NaN
+854,Q96,614dec67f6eb129c3a77defd,technical diagnostics for the app,,0,2,0,NaN
+855,Q97,5e52af31a0002e2c6056b13f,IMEI number,,0,2,1,NaN
+856,Q97,5ea043fbbfbe190687467966,IMEI number,,0,2,0,NaN
+857,Q97,5eaf3e142627076426921b1b,IMEI number,,0,2,2,NaN
+858,Q97,5fe635082fcdc9404d6fc610,IMEI number,,0,2,1,NaN
+859,Q97,602d86345f6c24812bfc3a4e,IMEI number,Device or Other Identifiers,1,2,1,0
+860,Q97,603411dbcf15a5036c87fc2b,IMEI number,Device or Other Identifiers,1,2,1,0
+861,Q97,61123bdc9bdfe87e54a459a6,IMEI number,,0,2,1,NaN
+862,Q97,6124f281ce42cb9bf7ed738f,IMEI number,,0,2,0,NaN
+863,Q97,614dec67f6eb129c3a77defd,IMEI number,Device or Other Identifiers,1,2,0,0
+864,Q98,5e52af31a0002e2c6056b13f,MAC address,,0,2,1,NaN
+865,Q98,5ea043fbbfbe190687467966,MAC address,Device or Other Identifiers,1,2,0,0
+866,Q98,5eaf3e142627076426921b1b,MAC address,Device or Other Identifiers,1,2,2,0
+867,Q98,5fe635082fcdc9404d6fc610,MAC address,,0,2,1,NaN
+868,Q98,602d86345f6c24812bfc3a4e,MAC address,,0,2,1,NaN
+869,Q98,603411dbcf15a5036c87fc2b,MAC address,Device or Other Identifiers,1,2,1,0
+870,Q98,61123bdc9bdfe87e54a459a6,MAC address,,0,2,1,NaN
+871,Q98,6124f281ce42cb9bf7ed738f,MAC address,,0,2,0,NaN
+872,Q98,614dec67f6eb129c3a77defd,MAC address,,0,2,0,NaN
+873,Q99,5e52af31a0002e2c6056b13f,Widevine Device ID,,0,2,1,NaN
+874,Q99,5ea043fbbfbe190687467966,Widevine Device ID,Device or Other Identifiers,1,2,0,0
+875,Q99,5eaf3e142627076426921b1b,Widevine Device ID,,0,2,2,NaN
+876,Q99,5fe635082fcdc9404d6fc610,Widevine Device ID,,0,2,1,NaN
+877,Q99,602d86345f6c24812bfc3a4e,Widevine Device ID,Device or Other Identifiers,1,2,1,0
+878,Q99,603411dbcf15a5036c87fc2b,Widevine Device ID,,0,2,1,NaN
+879,Q99,61123bdc9bdfe87e54a459a6,Widevine Device ID,,0,2,1,NaN
+880,Q99,6124f281ce42cb9bf7ed738f,Widevine Device ID,,0,2,0,NaN
+881,Q99,614dec67f6eb129c3a77defd,Widevine Device ID,,0,2,0,NaN

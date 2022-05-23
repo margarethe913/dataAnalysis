@@ -1,0 +1,150 @@
+Example Scenario in Survey,Correct Answer
+"Our app accesses GPS location and sends it to our server.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Collection
+"Our app accesses GPS location and sends it to our server via libraries and/or SDKs included in our app.
+
+Please select how you would report our app's data practices regarding GPS location.",Data Collection
+"Our app directly opens our own website in a webview, our website then accesses the user's GPS location through the webview, and sends it to our server.
+
+ 
+
+Please select how you would report your app's data practices regarding GPS location.",Data Collection
+"Our app allows users to navigate the open web via a webview. When the user opens google.com, it accesses the user's GPS location and sends the GPS location to Google's server.
+
+ 
+
+Please select how you would report our app's data practices regarding GPS location.",Neither
+"Our app sends the user's GPS location to our server to search for nearby places but does not store the GPS location after serving the request.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Data Collection
+"Our app requests for the user's full name and only sends the pseudonymized name to our server. (A pseudonymized name does not allow the individual to be directly identified, but it can be re-associated with the user if additional information is provided)
+Please select how you would report our app's data practices regarding the user's full name.",Data Collection
+"Our app accesses and processes the user's GPS location directly on the user’s device. The data never leaves the device.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Neither
+"Our app encrypts the user’s message before it is sent to another user, where it is decrypted.
+Please select how you would report our app's data practices regarding the user's messages.",Neither
+"Our app encrypts the user’s bank account information and sends it to our server.
+
+Please select how you would report our app's data practices regarding the user's bank account information.",Data Collection
+"Our app asks for a user's birthday for marketing communication, but that info is not required – the user can still sign up without providing that information.
+Please select how you would report our app's data practices regarding the user's birthday.",Data Collection
+"Our app accesses GPS location and sends it to a third party server.
+
+Please select how you would report our app's data practices regarding GPS location.",Both
+"We send the user's GPS location stored on our server to a third party server.
+
+Please select how you would report our app's data practices regarding GPS location.",Both
+"Our app accesses GPS location and sends it to another app directly on the device. The data never leaves the device.
+(This is feasible because an app can use an Intent to perform some basic interactions with other apps, including sending data)
+
+
+Please select how you would report your app's data practices regarding GPS location.",Data Sharing
+"Our app accesses GPS location and sends it directly to a third party server via libraries and/or SDKs included in our app.
+
+Please select how you would report our app's data practices regarding GPS location.",Both
+"Our app directly opens our own website in a webview, our website accesses the GPS location through the webview, and sends it to a third party server.
+
+ 
+
+Please select how you would report your app's data practices regarding GPS location.",Both
+"Our app allows users to navigate the open web via a webview. When the user opens google.com, it accesses the user's GPS location and sends the GPS location to a third party server.
+
+ 
+
+Please select how you would report our app's data practices regarding GPS location.",Neither
+"Our app accesses GPS location and sends it off the device to Google Maps to get real-time traffic updates. (Assume that Google don't use the GPS location for other purposes)
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Data Collection
+"Our app accesses GPS location and stores it on Google's server using Google Cloud Storage.  (Assume that Google doesn't use the GPS location for other purposes)
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Data Collection
+"Our app accesses the user’s GPS location and sends it to government agencies in response to a legal request.
+
+Please select how you would report our app's data practices regarding the user's GPS location.",Data Collection
+"Our app's user explicitly initiates an action that sends their full name to a third party server.
+
+Please select how you would report your app's data practices regarding the user's full name.",Data Collection
+"Our app sends the user's full name to a third party server after obtaining the user's consent to it.
+
+Please select how you would report your app's data practices regarding the user's full name.",Data Collection
+"Our app sends the user's medical records that have been fully anonymized to a third party server.
+
+Please select how you would report your app's data practices regarding the user's medical records.",Data Collection
+"This is an attention check. Please go ahead and select the option that begins with ""N"".",Neither
+"This is an attention check. Please go ahead and select the option that begins with ""H"".",Health and Fitness
+user/device physical location to area greater than or equal to three square kilometers,Location
+location provided by Android's ACCESS_COARSE_LOCATION,Location
+user or device physical location within an area less than 3 square kilometers,Location
+location provided by Android’s ACCESS_FINE_LOCATION.,Location
+the user's name,Personal Information
+the user's personal email address,Personal Information
+the user's account ID,Personal Information
+the user's account name,Personal Information
+the user's account number,Personal Information
+the user's mailing or home address,Personal Information
+the user's personal phone number,Personal Information
+the user's race or ethnicity,Personal Information
+the user's political beliefs,Personal Information
+the user's religious beliefs,Personal Information
+the user's sexual orientation,Personal Information
+the user's date of birth,Personal Information
+the user's gender identity,Personal Information
+the user's veteran status,Personal Information
+the user's credit card number,Financial Information
+the user's debit card number,Financial Information
+the user's bank account number,Financial Information
+the user's purchase history,Financial Information
+the user's credit score,Financial Information
+the user's credit history,Financial Information
+the user's medical records,Health and Fitness
+the user's reported symptoms (when sick),Health and Fitness
+the user's reported exercise/physical activity,Health and Fitness
+the subject line of an email sent or received by the user,Messages
+the sender of an email received by the user,Messages
+the recipients of an email sent by the user,Messages
+the content of an email sent or received by the user,Messages
+the content of a SMS and MMS message sent or received by the user,Messages
+the recipient(s) of a SMS and MMS message sent by the user,Messages
+the sender of a SMS and MMS message received by a user,Messages
+the content of instant messages/chats sent or received by the user,Messages
+the user's photos,Photos or Videos
+the user's videos,Photos or Videos
+the user's voicemails,Audio Files
+sound recordings created by the user,Audio Files
+the user's music files,Audio Files
+N/A,Audio Files
+"in a cloud storage app that you have designed, the user's files",Files and docs
+the user's documents,Files and docs
+names of the user's files and documents,Files and docs
+the user's calendar event notes,Calendar
+attendees of the user's calendar events,Calendar
+names of the user's contacts,Contacts
+the user's message history with their contacts,Contacts
+usernames of the user's contacts,Contacts
+information about the user's contact recency,Contacts
+information related to the user's contact frequency,Contacts
+information related to the user's  interaction duration with their contacts,Contacts
+the user's call history,Contacts
+number of page views by the user in the app,App Activity
+coordinates of the user's taps in the app,App Activity
+the user's search history (in-app),App Activity
+installed apps on user device,App Activity
+"In a social media app you have designed, the user's notes",App Activity
+"In a social media app that you have designed, the user's provided personal bio.",App Activity
+the user's gameplay,App Activity
+"In a social media app you have designed, the user's likes.",App Activity
+number of times app has crashed,App Activity
+stack traces for the app,App Activity
+battery life when app is in use,App Information and Performance
+loading time of the app,App Information and Performance
+the app's framerate,App Information and Performance
+the latency of the app,App Information and Performance
+technical diagnostics for the app,App Information and Performance
+IMEI number,Device or Other Identifiers
+MAC address,Device or Other Identifiers
+Widevine Device ID,Device or Other Identifiers
+Firebase installation ID,Device or Other Identifiers
+the app's advertising identifier,Device or Other Identifiers
+the user's website browsing history,Web Browsing

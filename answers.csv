@@ -2,26 +2,40 @@ Example Scenario in Survey,Correct Answer
 "Our app accesses GPS location and sends it to our server.
 
 
+
+
 Please select how you would report our app's data practices regarding GPS location.",Collected
 "Our app accesses GPS location and sends it to our server via libraries and/or SDKs included in our app.
+
+
 
 
 Please select how you would report our app's data practices regarding GPS location.",Collected
 "Our app directly opens our own website in a webview, our website then accesses the user's GPS location through the webview, and sends it to our server.
 
 
+
+
  
+
+
 
 
 Please select how you would report your app's data practices regarding GPS location.",Collected
 "Our app allows users to navigate the open web via a webview. When the user opens google.com, it accesses the user's GPS location and sends the GPS location to Google's server.
 
 
+
+
  
+
+
 
 
 Please select how you would report our app's data practices regarding GPS location.",Neither
 "Our app sends the user's GPS location to our server to search for nearby places but does not store the GPS location after serving the request.
+
+
 
 
 Please select how you would report our app's data practices regarding the user's GPS location.",Collected
@@ -30,10 +44,14 @@ Please select how you would report our app's data practices regarding the user's
 "Our app accesses and processes the user's GPS location directly on the user’s device. The data never leaves the device.
 
 
+
+
 Please select how you would report our app's data practices regarding the user's GPS location.",Neither
 "Our app encrypts the user’s message before it is sent to another user, where it is decrypted.
 Please select how you would report our app's data practices regarding the user's messages.",Neither
 "Our app encrypts the user’s bank account information and sends it to our server.
+
+
 
 
 Please select how you would report our app's data practices regarding the user's bank account information.",Collected
@@ -42,8 +60,12 @@ Please select how you would report our app's data practices regarding the user's
 "Our app accesses GPS location and sends it to a third party server.
 
 
+
+
 Please select how you would report our app's data practices regarding GPS location.",Both
 "We send the user's GPS location stored on our server to a third party server.
+
+
 
 
 Please select how you would report our app's data practices regarding GPS location.",Both
@@ -53,55 +75,76 @@ Please select how you would report our app's data practices regarding GPS locati
 
 
 
+
+
+
+
 Please select how you would report your app's data practices regarding GPS location.",Shared
 "Our app accesses GPS location and sends it directly to a third party server via libraries and/or SDKs included in our app.
+
+
 
 
 Please select how you would report our app's data practices regarding GPS location.",Both
 "Our app directly opens our own website in a webview, our website accesses the GPS location through the webview, and sends it to a third party server.
 
 
+
+
  
+
+
 
 
 Please select how you would report your app's data practices regarding GPS location.",Both
 "Our app allows users to navigate the open web via a webview. When the user opens google.com, it accesses the user's GPS location and sends the GPS location to a third party server.
 
 
+
+
  
+
+
 
 
 Please select how you would report our app's data practices regarding GPS location.",Neither
 "Our app accesses GPS location and sends it off the device to Google Maps to get real-time traffic updates. (Assume that Google doesn't use the GPS location for other purposes)
 
 
+
+
 Please select how you would report our app's data practices regarding the user's GPS location.",Collected
 "Our app accesses GPS location and stores it on Google's server using Google Cloud Storage. (Assume that Google doesn't use the GPS location for other purposes)
+
+
 
 
 Please select how you would report our app's data practices regarding the user's GPS location.",Collected
 "Our app accesses the user’s GPS location and sends it to government agencies in response to a legal request.
 
 
+
+
 Please select how you would report our app's data practices regarding the user's GPS location.",Collected
 "Our app's user explicitly initiates an action that sends their full name to a third party server.
+
+
 
 
 Please select how you would report your app's data practices regarding the user's full name.",Collected
 "Our app sends the user's full name to a third party server after obtaining the user's consent to it.
 
 
+
+
 Please select how you would report your app's data practices regarding the user's full name.",Collected
 "Our app sends the user's medical records that have been fully anonymized to a third party server.
 
 
+
+
 Please select how you would report your app's data practices regarding the user's medical records.",Collected
 "This is an attention check. Please go ahead and select the option that begins with ""N"".",Neither
-"This is an attention check. Please go ahead and select the option that begins with ""H"".",Health and Fitness
-user/device physical location to area greater than or equal to three square kilometers,Location
-location provided by Android's ACCESS_COARSE_LOCATION,Location
-user or device physical location within an area less than 3 square kilometers,Location
-location provided by Android’s ACCESS_FINE_LOCATION.,Location
 Our map app utilizes the user's location data to get real-time traffic updates,App functionality
 Our app collects the user's email address for log-in purposes,App functionality
 Our app collects information required to discern how many users utilized the real-time weather forecasting feature of the app.,Analytics
@@ -109,14 +152,16 @@ Our app collects data in order to monitor how often the app crashes and what eve
 Our app collects and utilizes user email addresses in order to send announcements about new app features.,Developer communications
 Our app collects user contact information to inform users about security patches.,Developer communications
 Our shopping app collects user email addresses in order to send users coupons.,Advertising or marketing
-Our app shares the user's information with advertising partners to select ads of interest to each user. ,Advertising or marketing
-Our app utilizes the user device's MAC address in order to isolate suspicious login attempts from new devices. ,"Fraud prevention, security, and compliance"
-Our shopping app collects data related to the user's previous purchases to suggest new products on our site that might appeal to them. ,Personalization
+Our app shares the user's information with advertising partners to select ads of interest to each user.,Advertising or marketing
+Our app utilizes the user device's MAC address in order to isolate suspicious login attempts from new devices.,"Fraud prevention, security, and compliance"
+Our shopping app collects data related to the user's previous purchases to suggest new products on our site that might appeal to them.,Personalization
 Our podcast app collects data about podcasts each user has listened to in order to suggest podcasts the user might like.,Personalization
-Our weather app utilizes the user's location data to deliver information related to the air quality in their current area. ,Personalization
-"Our app requires that the user provide their phone number, home address, and birthday in order to create a new in-app account. ",Account management
-Our app collects the user's email in order to allow the user to update the account ID they use across all apps created by the same developer. ,Account management
-Our app requests that the user provide their email address in order to validate their identity for account creation. ,Account management
+Our weather app utilizes the user's location data to deliver information related to the air quality in their current area.,Personalization
+"Our app requires that the user provide their phone number, home address, and birthday in order to create a new in-app account.",Account management
+Our app collects the user's email in order to allow the user to update the account ID they use across all apps created by the same developer.,Account management
+Our app requests that the user provide their email address in order to validate their identity for account creation.,Account management
+"This is an attention check. Please go ahead and select the option that begins with ""P"".",Personalization
+"This is an attention check. Please go ahead and select the option that begins with ""H"".",Health and Fitness
 user/device physical location to area greater than or equal to three square kilometers,Location
 location provided by Android's ACCESS_COARSE_LOCATION,Location
 user or device physical location within an area less than 3 square kilometers,Location
@@ -153,7 +198,7 @@ the content of an email sent or received by the user,Messages
 the content of a SMS and MMS message sent or received by the user,Messages
 the recipient(s) of a SMS and MMS message sent by the user,Messages
 the sender of a SMS and MMS message received by a user,Messages
-the content of instant messages/chats sent or received by the user ,Messages
+the content of instant messages/chats sent or received by the user,Messages
 the user's photos,Photos or Videos
 the user's videos,Photos or Videos
 the user's voicemails,Audio Files
@@ -195,4 +240,3 @@ Widevine Device ID,Device or Other Identifiers
 Firebase installation ID,Device or Other Identifiers
 the app's advertising identifier,Device or Other Identifiers
 the user's website browsing history,Web Browsing
-"This is an attention check. Please go ahead and select the option that begins with ""P"".",Personalization
